@@ -2,6 +2,30 @@
     {
         "source": "NPR News",
         "category": "USA",
+        "title": "Ukraine says Starlink is back to normal after disruptions",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+        "thumbnail": "",
+        "published": "Sat, 24 Oct 2026 13:54:25 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "Pentagon designates Chinese cultural centers national security threat",
+        "link": "https://rt-english.com/news/647619-pentagon-designates-chinese-cultural-centers-national-security-threat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6adcce5c85f5400adc1fb7bd.jpg",
+        "published": "Sat, 24 Oct 2026 17:09:50 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Thousands gather at new Albanian antigovernment rally",
+        "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Sat, 24 Oct 2026 18:30:56 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
         "title": "Perspective: The next James Bond",
         "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
         "thumbnail": "",
@@ -18,10 +42,10 @@
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "More than 2,000 forced from homes in Hebron amid Israel\u2019s West Bank raids",
-        "link": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
+        "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
         "thumbnail": "",
-        "published": "Sat, 24 Oct 2026 15:50:49 +0000"
+        "published": "Sat, 24 Oct 2026 18:00:20 +0000"
     },
     {
         "source": "NPR News",
@@ -42,16 +66,16 @@
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "Brazil\u2019s Lula and Bolsonaro about even ahead of election run-off: Poll",
-        "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+        "title": "Trump says he may move White House press corps to new location",
+        "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
         "thumbnail": "",
-        "published": "Sat, 24 Oct 2026 15:36:38 +0000"
+        "published": "Sat, 24 Oct 2026 17:01:34 +0000"
     },
     {
         "source": "NPR News",
         "category": "USA",
-        "title": "U.S. birth rate drops to record low, but older women are having more babies",
-        "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+        "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
         "thumbnail": "",
         "published": "Sat, 24 Oct 2026 06:00:00 -0400"
     },
@@ -66,33 +90,9 @@
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "Security forces deploy as Milan braces for another day of protests",
-        "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+        "title": "About 25,000 rally in Madrid in support of Spain\u2019s state pension scheme",
+        "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
         "thumbnail": "",
-        "published": "Sat, 24 Oct 2026 15:05:58 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
-        "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
-        "thumbnail": "",
-        "published": "Sat, 24 Oct 2026 06:00:00 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "US lawmakers plot to derail Trump\u2019s Russian diesel deal",
-        "link": "https://rt-english.com/news/647618-us-lawmakers-rush-to-derail-diesel-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6adcbb632030272c047df53c.jpg",
-        "published": "Sat, 24 Oct 2026 14:07:58 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Why Israeli tourists and investors are unsettling Cypriots",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Sat, 24 Oct 2026 14:56:47 +0000"
+        "published": "Sat, 24 Oct 2026 16:48:36 +0000"
     }
 ]
