@@ -2,18 +2,18 @@
     {
         "source": "NPR News",
         "category": "USA",
-        "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-        "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+        "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+        "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
         "thumbnail": "",
-        "published": "Sun, 25 Oct 2026 13:50:35 -0400"
+        "published": "Sun, 25 Oct 2026 16:35:35 -0400"
     },
     {
         "source": "RT News",
         "category": "Russia",
-        "title": "Houthis renew strikes on Saudi airports and oil facilities",
-        "link": "https://rt-english.com/news/647643-houthis-strikes-saudi-airports-oil/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ade1cc2203027259a1d99a9.jpg",
-        "published": "Sun, 25 Oct 2026 17:04:50 +0000"
+        "title": "Vucic concedes defeat in elections",
+        "link": "https://rt-english.com/news/647648-serbias-vucic-concedes-defeat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/static.en/thumbnail/breaking.jpg",
+        "published": "Sun, 25 Oct 2026 20:42:14 +0000"
     },
     {
         "source": "Sputnik Globe",
@@ -26,26 +26,26 @@
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "US and Israel elections: New leaders, same policies?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+        "title": "Can Carrick survive Man United\u2019s slump and Fernandes fallout?",
+        "link": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
         "thumbnail": "",
-        "published": "Sun, 25 Oct 2026 17:53:23 +0000"
+        "published": "Sun, 25 Oct 2026 20:01:00 +0000"
     },
     {
         "source": "NPR News",
         "category": "USA",
-        "title": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile",
-        "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+        "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+        "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
         "thumbnail": "",
-        "published": "Sun, 25 Oct 2026 12:18:41 -0400"
+        "published": "Sun, 25 Oct 2026 13:50:35 -0400"
     },
     {
         "source": "RT News",
         "category": "Russia",
-        "title": "Europe\u2019s next crisis is already hiding behind the riots",
-        "link": "https://rt-english.com/news/647642-europes-next-crisis-riots/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ade2f9320302752be66eac2.png",
-        "published": "Sun, 25 Oct 2026 16:54:49 +0000"
+        "title": "Zelensky undermines Trump more than Iran and Cuba do \u2013 Medvedev",
+        "link": "https://rt-english.com/news/647645-zelensky-undermines-trump-medvedev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ade3c6f85f54004352dec5a.jpg",
+        "published": "Sun, 25 Oct 2026 19:29:07 +0000"
     },
     {
         "source": "Sputnik Globe",
@@ -58,10 +58,42 @@
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "Can protests in Europe bring about change?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
+        "title": "Brazil election results 2026 live: Top court extends voting for two hours",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
         "thumbnail": "",
-        "published": "Sun, 25 Oct 2026 17:39:42 +0000"
+        "published": "Sun, 25 Oct 2026 20:00:04 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile",
+        "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+        "thumbnail": "",
+        "published": "Sun, 25 Oct 2026 12:18:41 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "Houthis renew strikes on Saudi airports and oil facilities",
+        "link": "https://rt-english.com/news/647643-houthis-strikes-saudi-airports-oil/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ade1cc2203027259a1d99a9.jpg",
+        "published": "Sun, 25 Oct 2026 17:04:50 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Russian Forces Strike Dry Cargo Ship With Supplies for Ukrainian Military - Ministry",
+        "link": "https://sputnikglobe.com/20261025/russian-forces-strike-dry-cargo-ship-with-supplies-for-ukrainian-military---ministry-1124936851.html",
+        "thumbnail": "",
+        "published": "Sun, 25 Oct 2026 15:51:00 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "The narrative battle over France\u2019s unrest",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Sun, 25 Oct 2026 19:36:14 +0000"
     },
     {
         "source": "NPR News",
@@ -74,10 +106,10 @@
     {
         "source": "RT News",
         "category": "Russia",
-        "title": "Vucic\u2019s mother attacked during Serbian election \u2013 SNS",
-        "link": "https://rt-english.com/news/647640-vucic-mother-attacked-election-serbia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ade0db585f5407f2a2b691b.jpg",
-        "published": "Sun, 25 Oct 2026 13:40:52 +0000"
+        "title": "Europe\u2019s next crisis is already hiding behind the riots",
+        "link": "https://rt-english.com/news/647642-europes-next-crisis-riots/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ade2f9320302752be66eac2.png",
+        "published": "Sun, 25 Oct 2026 16:54:49 +0000"
     },
     {
         "source": "Sputnik Globe",
@@ -90,41 +122,9 @@
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "AI\u2019s \u2018opportunity divide\u2019 could deepen global inequality, UN official warns",
-        "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
+        "title": "Iraqis mark seven years since Tishreen protests with reform demands",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss",
         "thumbnail": "",
-        "published": "Sun, 25 Oct 2026 17:26:22 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
-        "link": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
-        "thumbnail": "",
-        "published": "Sun, 25 Oct 2026 11:03:17 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Charity begins at home: Ireland must get its priorities straight",
-        "link": "https://rt-english.com/news/647639-ireland-neutrality-charity-home/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6addfdca203027330e280083.jpg",
-        "published": "Sun, 25 Oct 2026 13:40:38 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "UK Defense Chief Sets 1,000-Day Deadline to Prepare for Conflict by 2030",
-        "link": "https://sputnikglobe.com/20261025/uk-defense-chief-sets-1000-day-deadline-to-prepare-for-conflict-by-2030-1124936055.html",
-        "thumbnail": "",
-        "published": "Sun, 25 Oct 2026 14:36:00 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Sun, 25 Oct 2026 17:12:59 +0000"
+        "published": "Sun, 25 Oct 2026 19:36:05 +0000"
     }
 ]
