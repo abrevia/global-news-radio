@@ -2,6 +2,102 @@
     {
         "source": "NPR News",
         "category": "USA",
+        "title": "AI giant Anthropic files for an IPO that could break records",
+        "link": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+        "thumbnail": "",
+        "published": "Mon, 26 Oct 2026 10:16:23 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "Pentagon preparing for \u2018major war\u2019 \u2013 Fox News",
+        "link": "https://rt-english.com/news/647752-us-bases-autonomy-target/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6adf57532030272f42692aa5.jpg",
+        "published": "Mon, 26 Oct 2026 17:19:20 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Pentagon Comments on Zelensky\u2019s Complaints About Delay in Delivery of Air Defense Missiles",
+        "link": "https://sputnikglobe.com/20261026/pentagon-comments-on-zelenskys-complaints-about-delay-in-delivery-of-air-defense-missiles-1124944611.html",
+        "thumbnail": "",
+        "published": "Mon, 26 Oct 2026 17:26:25 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Ballon d\u2019Or 2026 award ceremony LIVE: Winners, reactions and latest news",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/26/ballon-dor-2026-award-ceremony-live-winners-reactions-and-latest-news?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Mon, 26 Oct 2026 17:00:00 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
+        "link": "https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+        "thumbnail": "",
+        "published": "Mon, 26 Oct 2026 09:25:33 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "9/11 cost Americans their privacy. AI could take what\u2019s left",
+        "link": "https://rt-english.com/news/647757-911-cost-americans-their-privacy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6adf870a85f5400aaa568bfd.png",
+        "published": "Mon, 26 Oct 2026 17:08:31 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "US to Discuss Geopolitical Crises, Impact on Energy, Trade at G20 Meeting - State Dept.",
+        "link": "https://sputnikglobe.com/20261026/us-to-discuss-geopolitical-crises-impact-on-energy-trade-at-g20-meeting-state-dept-1124944468.html",
+        "thumbnail": "",
+        "published": "Mon, 26 Oct 2026 17:01:27 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Delegations arrive in Tehran for security talks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Mon, 26 Oct 2026 16:55:19 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "What to know about China's plenum as Xi seeks stronger party discipline",
+        "link": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
+        "thumbnail": "",
+        "published": "Mon, 26 Oct 2026 09:20:38 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "EU country turns to AI to slash government workforce",
+        "link": "https://rt-english.com/news/647761-netherlands-ai-government-job-cuts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6adf822e2030272e0d5d2ece.jpg",
+        "published": "Mon, 26 Oct 2026 16:53:36 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Angola's Minister of State Arrives in Moscow for 3rd Russia-Africa Summit",
+        "link": "https://sputnikglobe.com/20261026/angolas-minister-of-state-arrives-in-moscow-for-3rd-russia-africa-summit-1124944350.html",
+        "thumbnail": "",
+        "published": "Mon, 26 Oct 2026 16:24:29 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Anthropic\u2019s IPO filing shows explosive growth, risks and staggering costs",
+        "link": "https://www.aljazeera.com/economy/2026/10/26/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Mon, 26 Oct 2026 16:53:51 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
         "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
         "link": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
         "thumbnail": "",
@@ -10,121 +106,25 @@
     {
         "source": "RT News",
         "category": "Russia",
-        "title": "Cruise liner hits container ship in Germany (VIDEO)",
-        "link": "https://rt-english.com/news/647733-cruise-liner-collision-germany/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6adf05a920302763953e3d32.jpg",
-        "published": "Mon, 26 Oct 2026 09:05:06 +0000"
+        "title": "EU facing trillion-euro debt hole while seeking more cash for Kiev",
+        "link": "https://rt-english.com/news/647760-eu-auditor-debt-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6adf766a85f5400c2c7d9b81.jpg",
+        "published": "Mon, 26 Oct 2026 16:09:57 +0000"
     },
     {
         "source": "Sputnik Globe",
         "category": "Russia",
-        "title": "Russian Scientists Develop Tougher Skins for Aircraft and Satellites",
-        "link": "https://sputnikglobe.com/20261026/russian-scientists-develop-tougher-skins-for-aircraft-and-satellites-1124940332.html",
+        "title": "Putin to Hold 24 Bilateral Meetings During Russia-Africa Summit - Kremlin Aide",
+        "link": "https://sputnikglobe.com/20261026/putin-to-hold-24-bilateral-meetings-during-russia-africa-summit---kremlin-aide-1124943405.html",
         "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 11:14:10 +0000"
+        "published": "Mon, 26 Oct 2026 15:24:39 +0000"
     },
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "Saudi-led coalition says it struck Houthi missile facilities",
-        "link": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
+        "title": "\u2018Enough is enough\u2019: Palestinians and Israelis share views ahead of election",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/enough-is-enough-palestinians-and-israelis-share-views-ahead-of-election?traffic_source=rss",
         "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 10:41:23 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
-        "link": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
-        "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 05:22:36 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Lula defeats Trump ally in Brazil\u2019s presidential election: As it happened",
-        "link": "https://rt-english.com/news/647650-brazil-election-live-updates/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6adf22f32030271b6932fa99.jpg",
-        "published": "Sun, 25 Oct 2026 21:49:04 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Iran Confirms Meeting With Mecca Defense Pact Nations in Tehran",
-        "link": "https://sputnikglobe.com/20261026/iran-confirms-meeting-with-mecca-defense-pact-nations-in-tehran-1124940191.html",
-        "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 11:10:02 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
-        "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 10:36:48 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
-        "link": "https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage",
-        "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 05:00:00 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Lula ally assaulted ahead of crucial Brazil election (VIDEO)",
-        "link": "https://rt-english.com/news/647647-lula-ally-assaulted-election-brazil/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ade6a312030275d8136e0d5.png",
-        "published": "Sun, 25 Oct 2026 21:26:18 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Potential US Strikes on Iran to Go Beyond Efforts to Maintain Status Quo - Reports",
-        "link": "https://sputnikglobe.com/20261026/potential-us-strikes-on-iran-to-go-beyond-efforts-to-maintain-status-quo---reports-1124940068.html",
-        "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 11:00:06 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "If Netanyahu loses, what changes for Palestinians?",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 10:16:39 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "How AI is transforming hurricane forecasts",
-        "link": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
-        "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 05:00:00 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Serbia\u2019s Vucic loses election, accuses EU and US \u2018deep state\u2019 of meddling: As it happened",
-        "link": "https://rt-english.com/news/647648-serbias-vucic-concedes-defeat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ade6f1885f540179e362161.jpg",
-        "published": "Sun, 25 Oct 2026 20:42:14 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "US Likely to Pull More Diplomatic Staff From Middle East in Coming Days - Reports",
-        "link": "https://sputnikglobe.com/20261026/us-likely-to-pull-more-diplomatic-staff-from-middle-east-in-coming-days---reports-1124939945.html",
-        "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 10:57:49 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Thousands greet opposition leader Maria Machado upon return to Caracas",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Mon, 26 Oct 2026 10:14:26 +0000"
+        "published": "Mon, 26 Oct 2026 16:51:13 +0000"
     }
 ]
