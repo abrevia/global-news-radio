@@ -2,7 +2,103 @@
     {
         "source": "NPR News",
         "category": "USA",
-        "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
+        "title": "Israelis vote in their highest numbers in decades in pivotal elections",
+        "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 16:45:39 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "Protesters storm pro-Vucic TV station in Belgrade (VIDEO)",
+        "link": "https://rt-english.com/news/647830-serbia-students-storm-tv-station/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0d21b203027144773b6ff.jpg",
+        "published": "Tue, 27 Oct 2026 19:43:53 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Norway, Finland Russia's Neighbors, Their Decision to Talk Very Important - Kremlin",
+        "link": "https://sputnikglobe.com/20261027/norway-finland-russias-neighbors-their-decision-to-talk-very-important---kremlin-1124957682.html",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 18:37:27 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 20:38:17 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
+        "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 15:53:12 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "\u2018Russiagate\u2019 ex-FBI chief charged with leaking US secrets",
+        "link": "https://rt-english.com/news/647831-russiagate-fbi-chief-comey-charged-leak/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0d72f85f54060f952b8ad.jpg",
+        "published": "Tue, 27 Oct 2026 18:42:48 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Russia-Africa Summits Lay Foundation for Moscow's Relations With African Countries - Putin",
+        "link": "https://sputnikglobe.com/20261027/russia-africa-summits-lay-foundation-for-moscows-relations-with-african-countries---putin-1124957572.html",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 18:34:48 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Lebanese and Syrians expect no change in Israeli policy after election",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 20:34:44 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+        "link": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 13:01:37 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "French slam Macron\u2019s riots response \u2013 poll",
+        "link": "https://rt-english.com/news/647822-french-dissatisfied-macron-riot-response/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0d60f203027216f181fb5.jpg",
+        "published": "Tue, 27 Oct 2026 17:13:31 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Putin Notes Increased Coordination Between Russia, Qatar on International Stage",
+        "link": "https://sputnikglobe.com/20261027/putin-notes-increased-coordination-between-russia-qatar-on-international-stage-1124957242.html",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 18:33:04 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Exit polls following Israeli elections indicate no clear winner",
+        "link": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 20:18:18 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
         "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
         "thumbnail": "",
         "published": "Tue, 27 Oct 2026 10:41:17 -0400"
@@ -10,121 +106,25 @@
     {
         "source": "RT News",
         "category": "Russia",
-        "title": "Nordic call to Putin opens rift in Europe on Ukraine",
-        "link": "https://rt-english.com/news/647820-nordic-putin-call-divisions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0bee22030270e77149e0d.jpg",
-        "published": "Tue, 27 Oct 2026 15:36:58 +0000"
+        "title": "An EU country has reopened the Russia channel. What brought it back?",
+        "link": "https://rt-english.com/news/647818-russian-slovak-intergovernmental-commission/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0cff585f5400c2c7d9bc1.jpg",
+        "published": "Tue, 27 Oct 2026 17:01:32 +0000"
     },
     {
         "source": "Sputnik Globe",
         "category": "Russia",
-        "title": "Lavrov Calls Diesel Fuel Supplies to US Pragmatic Move",
-        "link": "https://sputnikglobe.com/20261027/lavrov-calls-diesel-fuel-supplies-to-us-pragmatic-move-1124955635.html",
+        "title": "Russia\u2019s Arctic LNG Technology Could Open the Door to US Cooperation, but Sanctions Must Go \u2013 Expert",
+        "link": "https://sputnikglobe.com/20261027/russias-arctic-lng-technology-could-open-the-door-to-us-cooperation-but-sanctions-must-go--expert-1124956826.html",
         "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 15:40:24 +0000"
+        "published": "Tue, 27 Oct 2026 17:04:03 +0000"
     },
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "Lula\u2019s victory echoes across BRICS after fears of a Bolsonaro win",
-        "link": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss",
+        "title": "Tanzania\u2019s jailed opposition leader Tundu Lissu ends brief hunger strike",
+        "link": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
         "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 16:05:22 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-        "link": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 10:15:21 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Polish cities mull cutting Ukraine ties over Nazi collaborators",
-        "link": "https://rt-english.com/news/647800-polish-cities-ukraine-ties/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae093ef85f5400aaa568c4b.jpg",
-        "published": "Tue, 27 Oct 2026 14:23:01 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "GECF Countries Advocate for Use of Full Range of Technologies in Gas industry- Declaration",
-        "link": "https://sputnikglobe.com/20261027/gecf-countries-advocate-for-use-of-full-range-of-technologies-in-gas-industry--declaration-1124955450.html",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 15:34:52 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
-        "link": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 15:53:35 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "A 'Green Army' is out to thwart El Ni\u00f1o flooding",
-        "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 10:12:35 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Israel votes on Netanyahu\u2019s future",
-        "link": "https://rt-english.com/news/647802-israel-election-netanyahu-live-updates/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae09aad20302765cc27704c.jpg",
-        "published": "Tue, 27 Oct 2026 12:48:09 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Anthropic Warns AI Could Potentially Be Used to Create Weapons - Filing",
-        "link": "https://sputnikglobe.com/20261027/anthropic-warns-ai-could-potentially-be-used-to-create-weapons---filing-1124953047.html",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 14:33:40 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Iranian and Qatari leaders meet at Russian energy forum",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 15:49:19 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-        "link": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 07:39:52 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Brazil handed Washington a setback it won\u2019t forgive",
-        "link": "https://rt-english.com/news/647790-brazil-lula-us-domination/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0805385f5400a723642d2.jpg",
-        "published": "Tue, 27 Oct 2026 10:43:43 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Russia Considers Africa to Be Continent of Future - Putin",
-        "link": "https://sputnikglobe.com/20261027/russia-considers-africa-to-be-continent-of-future---putin-1124952921.html",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 14:31:35 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Iran\u2019s calculations as US escalation looms: Trust, midterms, Hormuz",
-        "link": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 15:26:59 +0000"
+        "published": "Tue, 27 Oct 2026 20:00:46 +0000"
     }
 ]
