@@ -2,6 +2,38 @@
     {
         "source": "NPR News",
         "category": "USA",
+        "title": "U.S. to issue visas to Fl\u00e1vio Bolsonaro as his whereabouts remain unclear",
+        "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 21:58:08 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "US tells Gulf allies to brace for \u2018intense\u2019 war with Iran \u2013 WSJ",
+        "link": "https://rt-english.com/news/647862-us-warns-renewed-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae169932030275a89252ec5.jpg",
+        "published": "Wed, 28 Oct 2026 03:21:02 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Iran Urges Europe to Stop Whitewashing US's Broken Promises",
+        "link": "https://sputnikglobe.com/20261028/iran-urges-europe-to-stop-whitewashing-uss-broken-promises-1124958119.html",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 03:52:00 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Mbappe faces backlash in China for meme fiasco",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 04:28:22 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
         "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
         "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
         "thumbnail": "",
@@ -10,31 +42,31 @@
     {
         "source": "RT News",
         "category": "Russia",
-        "title": "Microsoft moves to shed quarter of workforce",
-        "link": "https://rt-english.com/news/647794-microsoft-workers-buyouts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0a4662030270e77149e01.jpg",
-        "published": "Tue, 27 Oct 2026 23:00:42 +0000"
+        "title": "Wired for War: Israeli spy-tech firm targeted Starlink users \u2013 researchers",
+        "link": "https://rt-english.com/news/647861-israel-spy-tech-starlink/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae150eb85f540164903a642.jpg",
+        "published": "Wed, 28 Oct 2026 01:36:52 +0000"
     },
     {
         "source": "Sputnik Globe",
         "category": "Russia",
-        "title": "Norway, Finland Russia's Neighbors, Their Decision to Talk Very Important - Kremlin",
-        "link": "https://sputnikglobe.com/20261027/norway-finland-russias-neighbors-their-decision-to-talk-very-important---kremlin-1124957682.html",
+        "title": "Brazilian Senator Flavio Bolsonaro Flees to US",
+        "link": "https://sputnikglobe.com/20261028/brazilian-senator-flavio-bolsonaro-flees-to-us-1124958002.html",
         "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 18:37:27 +0000"
+        "published": "Wed, 28 Oct 2026 03:40:00 +0000"
     },
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "Gaza\u2019s women filmmakers turn pain into cinema as new academy launches",
-        "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+        "title": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
+        "link": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss",
         "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 23:35:51 +0000"
+        "published": "Wed, 28 Oct 2026 04:13:28 +0000"
     },
     {
         "source": "NPR News",
         "category": "USA",
-        "title": "Israel's election has a high turnout, lifting opposition hopes of beating Netanyahu",
+        "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
         "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
         "thumbnail": "",
         "published": "Tue, 27 Oct 2026 16:45:39 -0400"
@@ -42,26 +74,26 @@
     {
         "source": "RT News",
         "category": "Russia",
-        "title": "Trump ally flees to US after Brazil election defeat \u2013 media",
-        "link": "https://rt-english.com/news/647857-bolsonaro-flees-to-us-brazil-election/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1116085f5404a3042e0e6.jpg",
-        "published": "Tue, 27 Oct 2026 22:47:14 +0000"
+        "title": "KKK Halloween costumes spark outrage in US (VIDEO)",
+        "link": "https://rt-english.com/news/647815-kkk-halloween-costumes-outrage-texas/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0b9e485f54060f952b894.jpg",
+        "published": "Wed, 28 Oct 2026 00:52:00 +0000"
     },
     {
         "source": "Sputnik Globe",
         "category": "Russia",
-        "title": "Russia-Africa Summits Lay Foundation for Moscow's Relations With African Countries - Putin",
-        "link": "https://sputnikglobe.com/20261027/russia-africa-summits-lay-foundation-for-moscows-relations-with-african-countries---putin-1124957572.html",
+        "title": "Libya Counting on Strategic Partnership With Russia - Presidential Council Head",
+        "link": "https://sputnikglobe.com/20261028/libya-counting-on-strategic-partnership-with-russia---presidential-council-head-1124957887.html",
         "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 18:34:48 +0000"
+        "published": "Wed, 28 Oct 2026 03:03:00 +0000"
     },
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "President Lula calls Bolsonaro\u2019s Brazil exit \u2018shameful\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
+        "title": "Bolsonaro ally denies knowledge of senator\u2019s plan to flee Brazil",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
         "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 23:23:42 +0000"
+        "published": "Wed, 28 Oct 2026 03:49:40 +0000"
     },
     {
         "source": "NPR News",
@@ -74,57 +106,25 @@
     {
         "source": "RT News",
         "category": "Russia",
-        "title": "Why Moscow shouldn\u2019t fear a Democratic victory in the US midterms",
-        "link": "https://rt-english.com/news/647858-us-midterms-russia-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1246d85f540186805793f.png",
-        "published": "Tue, 27 Oct 2026 22:24:04 +0000"
+        "title": "Scandal-hit German special forces prepare for war with Russia \u2013 commander",
+        "link": "https://rt-english.com/news/647859-german-elite-unit-fight-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1271f85f54060f952b8d9.jpg",
+        "published": "Wed, 28 Oct 2026 00:07:48 +0000"
     },
     {
         "source": "Sputnik Globe",
         "category": "Russia",
-        "title": "Putin Notes Increased Coordination Between Russia, Qatar on International Stage",
-        "link": "https://sputnikglobe.com/20261027/putin-notes-increased-coordination-between-russia-qatar-on-international-stage-1124957242.html",
+        "title": "Norway, Finland Russia's Neighbors, Their Decision to Talk Very Important - Kremlin",
+        "link": "https://sputnikglobe.com/20261027/norway-finland-russias-neighbors-their-decision-to-talk-very-important---kremlin-1124957682.html",
         "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 18:33:04 +0000"
+        "published": "Tue, 27 Oct 2026 18:37:27 +0000"
     },
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "A bad day for Ben-Gvir as he addresses his supporters",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
+        "title": "Global stock markets rise as investors continue to bet on AI",
+        "link": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss",
         "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 23:16:38 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-        "link": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 13:01:37 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "European leaders are \u2018political masochists\u2019 \u2013 Lavrov",
-        "link": "https://rt-english.com/news/647839-lavrov-european-leaders-political-masochists/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0ea0385f5404fdf25c3e6.jpg",
-        "published": "Tue, 27 Oct 2026 21:02:08 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Russia\u2019s Arctic LNG Technology Could Open the Door to US Cooperation, but Sanctions Must Go \u2013 Expert",
-        "link": "https://sputnikglobe.com/20261027/russias-arctic-lng-technology-could-open-the-door-to-us-cooperation-but-sanctions-must-go--expert-1124956826.html",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 17:04:03 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "No clear mandate projected in Israel election: What\u2019s next?",
-        "link": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 23:06:47 +0000"
+        "published": "Wed, 28 Oct 2026 03:14:31 +0000"
     }
 ]
