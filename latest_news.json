@@ -2,6 +2,102 @@
     {
         "source": "NPR News",
         "category": "USA",
+        "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 20:52:50 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "US hospitals and nursing homes are breeding grounds for deadly superbugs \u2013 CDC",
+        "link": "https://rt-english.com/news/647957-us-healthcare-deadly-superbug-threat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae227c32030271d812798fb.jpg",
+        "published": "Thu, 29 Oct 2026 00:45:34 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Russia Believes Necessary to Develop Contacts With Norway, Finland - Kremlin",
+        "link": "https://sputnikglobe.com/20261028/russia-believes-necessary-to-develop-contacts-with-norway-finland---kremlin-1124970915.html",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 18:46:44 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Thu, 29 Oct 2026 00:36:33 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "Trump administration will allow pharmacies to make popular peptides",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 18:26:48 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "Fury erupts outside Spanish Transport Ministry after train disaster (VIDEOS)",
+        "link": "https://rt-english.com/news/647979-madrid-protests-train-crash/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2834d85f5401d78400b52.jpg",
+        "published": "Wed, 28 Oct 2026 23:29:12 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Russia-US Cooperation Needed to Address Rassvet and Musk's Starlink Programs \u2013 Experts",
+        "link": "https://sputnikglobe.com/20261028/russia-us-cooperation-needed-to-address-rassvet-and-musks-starlink-programs--experts-1124970725.html",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 18:44:19 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Israelis rally for Jewish-Arab government after election gains",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Thu, 29 Oct 2026 00:34:24 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 17:46:27 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "\u2018Back up!\u2019 US ambassador erupts at Cuban minister (VIDEO)",
+        "link": "https://rt-english.com/news/647976-us-ambassador-cuban-minister-un/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2648a2030271e3e341cb6.jpg",
+        "published": "Wed, 28 Oct 2026 21:48:55 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Russia Showcases Payment Systems Operating Beyond Western Control",
+        "link": "https://sputnikglobe.com/20261028/russia-showcases-payment-systems-operating-beyond-western-control-1124970062.html",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 17:54:05 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+        "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Thu, 29 Oct 2026 00:01:07 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
         "title": "Trump administration wants to remove regulations on a super planet-heating gas",
         "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
         "thumbnail": "",
@@ -18,102 +114,6 @@
     {
         "source": "Sputnik Globe",
         "category": "Russia",
-        "title": "Russia Believes Necessary to Develop Contacts With Norway, Finland - Kremlin",
-        "link": "https://sputnikglobe.com/20261028/russia-believes-necessary-to-develop-contacts-with-norway-finland---kremlin-1124970915.html",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 18:46:44 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Indonesian students demand action on wildfires and rising costs",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 21:23:17 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 14:07:33 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "\u2018We are a country divided\u2019: Who will feel betrayed by Israel\u2019s next government?",
-        "link": "https://rt-english.com/news/647952-we-are-country-divided-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2446485f540592930b5de.png",
-        "published": "Wed, 28 Oct 2026 18:56:43 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Russia-US Cooperation Needed to Address Rassvet and Musk's Starlink Programs \u2013 Experts",
-        "link": "https://sputnikglobe.com/20261028/russia-us-cooperation-needed-to-address-rassvet-and-musks-starlink-programs--experts-1124970725.html",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 18:44:19 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "What\u2019s next for Brazil\u2019s Flavio Bolsonaro after election defeat?",
-        "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 20:38:01 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Fed holds interest rates steady even as inflation remains stubborn",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 14:04:42 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Knife attacker shot dead outside Israeli Embassy in Belgrade (VIDEO)",
-        "link": "https://rt-english.com/news/647932-knife-attack-serbia-israeli-embassy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2158d85f5405e75739526.png",
-        "published": "Wed, 28 Oct 2026 16:14:13 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Russia Showcases Payment Systems Operating Beyond Western Control",
-        "link": "https://sputnikglobe.com/20261028/russia-showcases-payment-systems-operating-beyond-western-control-1124970062.html",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 17:54:05 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
-        "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 20:22:16 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 12:10:43 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Iran war leaves \u2018forever cruise\u2019 residents stranded",
-        "link": "https://rt-english.com/news/647933-forever-cruise-strands-hundreds/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2026285f54013720d08bb.jpg",
-        "published": "Wed, 28 Oct 2026 15:41:39 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
         "title": "Russia Ready to Assist Africa in Fight Against Terrorism - Putin",
         "link": "https://sputnikglobe.com/20261028/russia-ready-to-assist-africa-in-fight-against-terrorism---putin-1124969483.html",
         "thumbnail": "",
@@ -122,9 +122,9 @@
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "Rwanda\u2019s milk bars",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss",
+        "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
         "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 20:14:13 +0000"
+        "published": "Thu, 29 Oct 2026 00:00:00 +0000"
     }
 ]
