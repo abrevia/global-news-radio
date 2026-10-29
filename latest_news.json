@@ -2,10 +2,106 @@
     {
         "source": "NPR News",
         "category": "USA",
-        "title": "Judge denies the Justice Department's bid to stop processing California ballots",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+        "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
         "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 20:52:50 -0400"
+        "published": "Thu, 29 Oct 2026 02:10:11 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "Fire breaks out at US nuclear weapons facility",
+        "link": "https://rt-english.com/news/647982-us-nuclear-site-fire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2cf2e85f5401d131c526d.png",
+        "published": "Thu, 29 Oct 2026 04:46:41 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Alyoshki Ceasefire Fully Observed \u2013 Russian Rights Commissioner",
+        "link": "https://sputnikglobe.com/20261029/alyoshki-ceasefire-fully-observed--russian-rights-commissioner-1124972192.html",
+        "thumbnail": "",
+        "published": "Thu, 29 Oct 2026 06:38:08 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "What European students can learn from their Serbian peers",
+        "link": "https://www.aljazeera.com/opinions/2026/10/29/what-european-students-can-learn-from-their-serbian-peers?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Thu, 29 Oct 2026 06:39:24 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "Brewers beat the Rays to win the first World Series title in franchise history",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-6021953/brewers-win-first-world-series-title",
+        "thumbnail": "",
+        "published": "Thu, 29 Oct 2026 00:49:24 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "Israeli police reject Likud\u2019s claims against Arab parties",
+        "link": "https://rt-english.com/news/647981-likud-arab-fraud-claim-rejected/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2c32285f54017ba52478c.jpg",
+        "published": "Thu, 29 Oct 2026 03:55:20 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "Russia-Africa Summit, Day Two",
+        "link": "https://sputnikglobe.com/20261029/president-putin-and-burundis-president-take-part-in-the-plenary-session-of-the-russiaafrica-summit-1124972056.html",
+        "thumbnail": "",
+        "published": "Thu, 29 Oct 2026 06:11:39 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Europe\u2019s wealth gap: Older households eight times richer than young ones",
+        "link": "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Thu, 29 Oct 2026 06:25:02 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "Hackers expose the identities of more than 40,000 DHS employees",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 23:28:50 -0400"
+    },
+    {
+        "source": "RT News",
+        "category": "Russia",
+        "title": "WATCH: Trump ally declares himself \u2018leader of Brazil\u2019 after fleeing to US",
+        "link": "https://rt-english.com/news/647980-bolsonaro-lands-us-leader-brazil/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2acec85f5405e75739576.jpg",
+        "published": "Thu, 29 Oct 2026 02:20:41 +0000"
+    },
+    {
+        "source": "Sputnik Globe",
+        "category": "Russia",
+        "title": "The West\u2019s Attempts to Derail Russia-Africa Summit Doomed to Fail - Russian Diplomat",
+        "link": "https://sputnikglobe.com/20261029/the-wests-attempts-to-derail-russia-africa-summit-doomed-to-fail---russian-diplomat-1124971666.html",
+        "thumbnail": "",
+        "published": "Thu, 29 Oct 2026 05:35:12 +0000"
+    },
+    {
+        "source": "Al Jazeera",
+        "category": "Middle East",
+        "title": "Liverpool beat Chelsea 6-5 on penalties to reach League Cup quarterfinals",
+        "link": "https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss",
+        "thumbnail": "",
+        "published": "Thu, 29 Oct 2026 06:13:51 +0000"
+    },
+    {
+        "source": "NPR News",
+        "category": "USA",
+        "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Ni\u00f1o will affect your region",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 22:20:45 -0400"
     },
     {
         "source": "RT News",
@@ -18,113 +114,17 @@
     {
         "source": "Sputnik Globe",
         "category": "Russia",
-        "title": "Russia Believes Necessary to Develop Contacts With Norway, Finland - Kremlin",
-        "link": "https://sputnikglobe.com/20261028/russia-believes-necessary-to-develop-contacts-with-norway-finland---kremlin-1124970915.html",
+        "title": "Rosatom Discussing Cooperation in Peaceful Use of Nuclear Energy With US - CEO",
+        "link": "https://sputnikglobe.com/20261029/rosatom-discussing-cooperation-in-peaceful-use-of-nuclear-energy-with-us---ceo-1124971257.html",
         "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 18:46:44 +0000"
+        "published": "Thu, 29 Oct 2026 03:59:00 +0000"
     },
     {
         "source": "Al Jazeera",
         "category": "Middle East",
-        "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+        "title": "Russia\u2019s alleged sabotage campaign in Europe raises fears of escalation",
+        "link": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 00:36:33 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Trump administration will allow pharmacies to make popular peptides",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 18:26:48 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Fury erupts outside Spanish Transport Ministry after train disaster (VIDEOS)",
-        "link": "https://rt-english.com/news/647979-madrid-protests-train-crash/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2834d85f5401d78400b52.jpg",
-        "published": "Wed, 28 Oct 2026 23:29:12 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Russia-US Cooperation Needed to Address Rassvet and Musk's Starlink Programs \u2013 Experts",
-        "link": "https://sputnikglobe.com/20261028/russia-us-cooperation-needed-to-address-rassvet-and-musks-starlink-programs--experts-1124970725.html",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 18:44:19 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Israelis rally for Jewish-Arab government after election gains",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 00:34:24 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 17:46:27 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "\u2018Back up!\u2019 US ambassador erupts at Cuban minister (VIDEO)",
-        "link": "https://rt-english.com/news/647976-us-ambassador-cuban-minister-un/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2648a2030271e3e341cb6.jpg",
-        "published": "Wed, 28 Oct 2026 21:48:55 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Russia Showcases Payment Systems Operating Beyond Western Control",
-        "link": "https://sputnikglobe.com/20261028/russia-showcases-payment-systems-operating-beyond-western-control-1124970062.html",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 17:54:05 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
-        "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 00:01:07 +0000"
-    },
-    {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Trump administration wants to remove regulations on a super planet-heating gas",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 17:15:09 -0400"
-    },
-    {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Netanyahu\u2019s Israel deadlocked: were the elections \u2018stolen by the Arabs\u2019?",
-        "link": "https://rt-english.com/news/647968-israel-election-arab-coalition/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae24b2e2030277c5223d0bc.jpg",
-        "published": "Wed, 28 Oct 2026 19:48:26 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Russia Ready to Assist Africa in Fight Against Terrorism - Putin",
-        "link": "https://sputnikglobe.com/20261028/russia-ready-to-assist-africa-in-fight-against-terrorism---putin-1124969483.html",
-        "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 16:43:56 +0000"
-    },
-    {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
-        "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 00:00:00 +0000"
+        "published": "Thu, 29 Oct 2026 06:01:29 +0000"
     }
 ]
