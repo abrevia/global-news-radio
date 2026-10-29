@@ -84,8 +84,9 @@
           <button id="tab-btn-radio" onclick="switchSection('radio')" class="bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-2.5 sm:px-3 py-1.5 rounded transition font-bold">
             [📡 RADIO]
           </button>
-          <button id="tab-btn-podcasts" onclick="switchSection('podcasts')" class="bg-emerald-950/50 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 sm:px-3 py-1.5 rounded transition">
-            [🎙️ PODCASTS]
+          <button id="tab-btn-podcasts" onclick="switchSection('podcasts')" class="bg-emerald-950/50 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 sm:px-3 py-1.5 rounded transition flex items-center gap-1.5">
+            <span>[🎙️ PODCASTS]</span>
+            <span class="bg-red-500/30 text-red-300 border border-red-500/50 text-[9px] px-1.5 py-0.5 rounded font-bold animate-pulse">NEW EP 01</span>
           </button>
           <button id="tab-btn-guide" onclick="switchSection('guide')" class="bg-emerald-950/50 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 sm:px-3 py-1.5 rounded transition" title="Working with Interpreters & LEP Guide in Small Segments">
             [🗣️ GUIDE]
@@ -132,6 +133,81 @@
         </div>
       </div>
 
+      <!-- FRONT & CENTER PINNED INVESTIGATION: EPISODE 01 -->
+      <div class="mx-4 mt-3 bg-gradient-to-br from-red-950/80 via-black to-[#090303] border-2 border-red-500/70 rounded-xl p-4 shadow-[0_0_30px_rgba(239,68,68,0.25)] space-y-3 relative overflow-hidden">
+        <div class="absolute -right-10 -bottom-10 w-40 h-40 bg-red-600/10 rounded-full blur-2xl pointer-events-none"></div>
+        
+        <!-- Pinned Header & Tags -->
+        <div class="flex items-center justify-between gap-2 flex-wrap">
+          <div class="flex items-center gap-2">
+            <span class="inline-block w-2.5 h-2.5 rounded-full bg-red-500 animate-ping"></span>
+            <span class="text-[10px] font-mono-tech font-bold uppercase tracking-wider text-red-300 bg-red-950/90 px-2 py-0.5 rounded border border-red-500/60 shadow-sm">
+              📌 PINNED SPECIAL INVESTIGATION // BEHIND THE WIRE: EPISODE 01
+            </span>
+          </div>
+          <span class="text-[10px] font-mono-tech text-cyan-400 font-bold bg-cyan-950/60 px-2 py-0.5 rounded border border-cyan-500/30">
+            AUDIO + TEXT DOSSIER (4m 15s)
+          </span>
+        </div>
+
+        <!-- Main Headline -->
+        <div>
+          <h3 class="text-base sm:text-lg font-bold text-white font-mono-tech leading-snug tracking-tight">
+            The Shadow Tier: Uncovering the Multi-Layer Arbitrage Behind Emergency Interpretation
+          </h3>
+          <p class="text-xs text-slate-300 font-sans leading-relaxed mt-1.5">
+            US hospitals and 911 dispatch pay <strong class="text-emerald-400 font-mono-tech">$120–$210/hr</strong> for life-or-death language access. Yet the frontline remote interpreters taking trauma and stroke calls in Mexico are paid just <strong class="text-red-400 font-mono-tech">$6.00/hr</strong>—punished with illegal docking to <strong class="text-red-500 font-mono-tech">$2.00/hr</strong>—under fraudulent "independent contractor" misclassification managed through disposable WhatsApp groups.
+          </p>
+        </div>
+
+        <!-- Economic Arbitrage Spread Matrix -->
+        <div class="grid grid-cols-3 gap-2 font-mono-tech text-center py-1">
+          <div class="bg-black/70 border border-emerald-500/40 p-2 rounded">
+            <div class="text-[9px] text-slate-400 uppercase">Hospital Billing</div>
+            <div class="text-xs sm:text-sm font-bold text-emerald-400">$120 – $210/hr</div>
+            <div class="text-[8px] text-slate-500">($2.00–$3.50/min)</div>
+          </div>
+          <div class="bg-black/70 border border-cyan-500/40 p-2 rounded">
+            <div class="text-[9px] text-slate-400 uppercase">BPO Shell Rate</div>
+            <div class="text-xs sm:text-sm font-bold text-cyan-400">$18 – $28/hr</div>
+            <div class="text-[8px] text-slate-500">~75% Margin Siphoned</div>
+          </div>
+          <div class="bg-black/70 border border-red-500/50 p-2 rounded bg-red-950/20">
+            <div class="text-[9px] text-slate-400 uppercase">Interpreter Pay</div>
+            <div class="text-xs sm:text-sm font-bold text-red-400">$6.00/hr</div>
+            <div class="text-[8px] text-red-300 font-bold">DOCKED TO $2/HR</div>
+          </div>
+        </div>
+
+        <!-- Direct Audio Broadcast Player -->
+        <div class="bg-black/90 p-3 rounded-lg border border-red-500/40 space-y-2">
+          <div class="flex items-center justify-between text-xs font-mono-tech">
+            <span class="text-white font-bold flex items-center gap-2">
+              <span class="text-red-400">🎙️</span>
+              <span>EPISODE 01 BROADCAST: <span class="text-cyan-300">The Shadow Tier</span></span>
+            </span>
+            <a href="episode-01.mp3" download class="text-[10px] text-cyan-400 hover:text-white transition flex items-center gap-1">
+              <span>[DOWNLOAD MP3]</span> ⬇
+            </a>
+          </div>
+          <audio controls class="w-full h-8 opacity-95">
+            <source src="episode-01.mp3" type="audio/mpeg" />
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+
+        <!-- Interactive Actions Bar -->
+        <div class="pt-1 flex flex-wrap items-center justify-between gap-2 font-mono-tech">
+          <button onclick="switchSection('podcasts')" class="bg-gradient-to-r from-red-600 to-amber-600 hover:from-red-500 hover:to-amber-500 text-white font-bold text-xs px-3.5 py-2 rounded-lg transition flex items-center gap-1.5 shadow-md shadow-red-900/30">
+            <span>🔍 OPEN COMPLETE INVESTIGATION DOSSIER &amp; EVIDENCE</span>
+            <span>&rarr;</span>
+          </button>
+          <a href="https://github.com/serviciosadg/abrevia/blob/main/WORKING_WITH_INTERPRETERS.md" target="_blank" rel="noopener noreferrer" class="text-[11px] text-slate-400 hover:text-cyan-300 transition flex items-center gap-1">
+            <span>[Title VI &amp; LFT Legal Framework]</span> ↗
+          </a>
+        </div>
+      </div>
+
       <!-- Live Radio Player -->
       <div class="p-4 bg-[#020508] border-b tech-border space-y-2 mt-3">
         <div class="flex items-center justify-between text-[11px] font-mono-tech">
@@ -141,6 +217,26 @@
         <audio id="radio-player" controls class="w-full h-8 opacity-90">
           <source id="audio-source" src="news_broadcast.mp3" type="audio/mpeg" />
         </audio>
+      </div>
+
+      <!-- SPECIAL INVESTIGATIVE BULLETIN BANNER -->
+      <div onclick="switchSection('podcasts')" class="cursor-pointer bg-gradient-to-r from-red-950/60 via-black to-red-950/40 hover:from-red-900/60 hover:to-red-900/40 border border-red-500/50 p-2.5 rounded-lg flex items-center justify-between transition group shadow-[0_0_15px_rgba(239,68,68,0.15)]">
+        <div class="flex items-center gap-2.5 min-w-0">
+          <span class="inline-block w-2.5 h-2.5 rounded-full bg-red-500 animate-ping shrink-0"></span>
+          <div class="min-w-0">
+            <div class="flex items-center gap-2">
+              <span class="text-[10px] font-mono-tech font-bold uppercase tracking-wider text-red-400 bg-red-950/80 px-1.5 py-0.5 rounded border border-red-500/40">SPECIAL INVESTIGATION</span>
+              <span class="text-[10px] font-mono-tech text-slate-400">BEHIND THE WIRE // EP 01</span>
+            </div>
+            <p class="text-xs text-white font-medium truncate mt-0.5 group-hover:text-cyan-300 transition">
+              The Shadow Tier: Uncovering the Multi-Layer Arbitrage Behind Emergency Interpretation
+            </p>
+          </div>
+        </div>
+        <div class="shrink-0 text-[11px] font-mono-tech text-cyan-400 font-bold flex items-center gap-1 group-hover:translate-x-0.5 transition">
+          <span>[LISTEN &amp; READ]</span>
+          <span>&rarr;</span>
+        </div>
       </div>
 
       <div id="feed-viewport" class="flex-1 overflow-y-auto viewport-scroll max-h-[calc(100vh-320px)] divide-y tech-border mt-3">
@@ -727,21 +823,56 @@
       }
     });
 
-    let podcasts = JSON.parse(localStorage.getItem('alex_podcasts') || '[]');
+    let defaultPodcasts = [{"id": "episode-01-the-shadow-tier", "title": "Behind the Wire | Ep 01: The Shadow Tier — The Multi-Layer Arbitrage of Emergency Interpretation", "badge": "INVESTIGATIVE TELEMETRY // CLASSIFIED DISPATCH", "date": "2026-10-29T12:00:00Z", "audioUrl": "episode-01.mp3", "duration": "04:15", "description": "When an emergency 911 or trauma center call is placed in the US, hospitals pay $120–$210/hr for certified language access. But who actually answers the line? This investigative episode slowly uncovers the hidden chain of middlemen—from global conglomerates to nearshore BPO shells—profiting from the high-stress labor of interpreters paid $6/hr and illegally docked to $2/hr under simulated freelance contracts.", "dossier": {"headline": "THE FIVE-LAYER SUBCONTRACTING PYRAMID", "flowchart": ["1. THE END BUYER: US Healthcare Networks, 911 Centers, Federal Agencies ($120 - $210/hr | $2.00 - $3.50/min)", "2. THE PRIME CONTRACTOR: LanguageLine Solutions / Teleperformance Specialized Services", "3. THE MANAGED SERVICE PROVIDER (MSP): Kelly Services / KellyOCG (Labor Brokerage & Compliance Buffer)", "4. THE NEARSHORE BPO SHELL: Solucenter International S. de R.L. (Billed at $18 - $28/hr)", "5. THE FRONTLINE LINGUIST: Remote Certified Interpreter ($6.00/hr, punitively docked to $2.00/hr)"], "investigative_findings": [{"title": "1. The Arbitrage Spread (65% to 80% Captured Margin)", "content": "Enterprise language service providers (LSPs) bill clients between $1.50 and $3.50+ per minute ($90–$210/hr) for real-time over-the-phone interpretation (OPI). The nearshore vendor bills the prime contractor an estimated $18–$28/hr per seat, while paying the frontline linguist in Mexico just $6.00/hr. The intermediary entities capture the vast majority of the contract value without taking a single emergency call."}, {"title": "2. The $2/hr Punitive Wage-Slashing Mechanism", "content": "To enforce attendance without acknowledging employment status, vendors institute a predatory wage reduction policy: interpreters who fail to fulfill rigid shift commitments have their hourly rate slashed from $6.00/hr to an unlivable $2.00/hr penalty rate. This punitive wage deduction is enforced on workers who have already performed exhausting, highly skilled cognitive labor."}, {"title": "3. 'Simulación Laboral' Under Mexican Federal Labor Law (LFT)", "content": "Vendors classify interpreters as 'freelancers' or under 'honorarios' (B2B) to evade mandatory social security contributions (IMSS), housing funds (Infonavit), year-end bonuses (aguinaldo), paid vacation, and profit-sharing (PTU). Under Mexican law (LFT Articles 20, 21, and 1004-C) and the Principle of Primacy of Reality (Principio de Primacía de la Realidad), mandatory shifts, supervisory tracking, and disciplinary pay cuts legally establish an employer-employee relationship (subordinación laboral), rendering the 'freelance' label fraudulent."}, {"title": "4. The WhatsApp Smokescreen vs. The Indelible Paper Trail", "content": "Operational managers deliberately direct day-to-day command, shift assignments, and reprimands through informal WhatsApp groups using first names to avoid formal corporate records. However, corporate email headers (Rackspace Webmail, internal Workday credentials, and compliance notices from ComplianceTraining@languageline.com copied directly to @solucenterint.com and Kelly MSP teams) legally dismantle this defense and prove joint-and-several liability (responsabilidad solidaria)."}, {"title": "5. Global Wage Arbitrage Context", "content": "US domestic interpreters earn $25.00–$45.00+/hr for identical emergency calls. Direct international platforms (GLOBO, Propio, Voyce) hire nearshore linguists at $7.00–$14.00/hr. Middleman BPO seat-mills push compensation down to $2.00–$6.00/hr, absorbing the human toll of emergency trauma work while shielding multinational buyers from cross-border employment liabilities."}], "transcript": "Welcome to Global News Radio Telemetry. This is an investigative special report. Behind the Wire: Episode One — The Shadow Tier.\n\nWhen a Spanish-speaking mother in California calls 911 because her child is choking, or when a patient in an emergency trauma bay cannot speak English, the medical staff hits a button on their phone. Within seconds, a third voice joins the line. A certified medical interpreter.\n\nTo the hospital, this service is seamless. The hospital network is billed between two and three dollars and fifty cents for every single minute of that call. That is one hundred and twenty to over two hundred dollars an hour. At the top of the contract sits a multi-billion dollar language services giant—LanguageLine Solutions, backed by global parent Teleperformance.\n\nCorporate filings celebrate high-margin language access and global telemetry. But who is that third voice actually on the line?\n\nThat voice belongs to a frontline linguist sitting at a desk in Mexico or Colombia. A human being navigating stroke diagnoses, pediatric emergencies, domestic violence disputes, and complex surgical consents.\n\nAnd what does that frontline linguist get paid? Six dollars an hour.\n\nAnd it gets worse. If that interpreter fails to adhere to rigid shift times or misses assigned call windows, their pay is slashed to an unlivable two dollars an hour. A punitive eighty-percent docking rate enforced by an intermediary management chain.\n\nAll the while, these workers are told they are independent contractors—freelancers. No health insurance, no social security through IMSS, no mandatory annual bonuses, no paid leave, and zero labor rights.\n\nToday, we begin uncovering what happens behind the scenes. We are peeling back layer upon layer of middlemen who capture fortunes from the vital labor of others.\n\nHere is how the subcontracting pyramid actually works.\n\nLayer One is the Client: US hospitals, 911 call centers, and federal agencies operating under Title VI of the Civil Rights Act and Section 1557 of the Affordable Care Act. They mandate meaningful language access and pay top dollar for it.\n\nLayer Two is the Prime Contractor: LanguageLine Solutions and Teleperformance Specialized Services. To avoid foreign labor laws, foreign payroll taxes, and legal liability in Latin America, they avoid hiring frontline interpreters directly. Instead, they route their volume through staffing networks.\n\nLayer Three is the Managed Service Provider: Global workforce intermediaries like Kelly Services and KellyOCG, acting as account managers and compliance buffers.\n\nLayer Four is the Local Nearshore Vendor: Companies like Solucenter International in Mexico. They bill the prime vendor between eighteen and twenty-eight dollars an hour. They pay the frontline worker six dollars, and pocket the twelve to twenty-two dollar margin for every single hour every interpreter spends taking calls.\n\nTo evade Mexican labor laws under the Ley Federal del Trabajo, these vendors operate through deliberate opacity. Contracts are misclassified as professional fees or honorarios. Supervision and attendance logs are routed through disposable WhatsApp groups managed by handlers using first names and personal cell phones.\n\nIf an interpreter questions why they are scheduled like a full-time employee without the legal benefits of one, they are reminded that their six-dollar rate can instantly drop to two dollars—or their login credentials can be deactivated overnight with zero explanation.\n\nUnder Mexican labor law, this has a specific legal name: Simulación Laboral—employment simulation fraud. Under Article 20 and 21 of the Ley Federal del Trabajo, when a company dictates your schedule, disciplines your performance, tracks your logins, and punitively docks your pay, you are an employee. The label on the contract is legally void.\n\nAnd behind the wall of WhatsApp chats, the digital paper trail is indelible. Corporate compliance training emails, Workday credentials, and internal account management teams directly link the frontline linguists to the global conglomerates profiting from their labor.\n\nThis is not an isolated incident. Across Mexico, Central America, South America, and the Philippines, tens of thousands of skilled interpreters are kept in the shadows—bridging life-and-death conversations for the richest healthcare networks in the world, while absorbing the psychological toll of emergency work for poverty wages.\n\nThis is Episode One. In upcoming dispatches, we will continue publishing the evidence, dissecting the legal frameworks, and tracking the transition toward ethical, transparent, direct B2B language access models where the workers who carry the voice receive the compensation and dignity they have earned.\n\nStay tuned to Global News Radio Telemetry. Truth has no middleman."}}];
+    let baseEpisodes = defaultPodcasts;
+    let userPodcasts = JSON.parse(localStorage.getItem('alex_podcasts') || '[]');
+
+    // Load static episodes archive from episodes.json
+    async function loadEpisodesArchive() {
+      try {
+        const res = await fetch(`episodes.json?t=${Date.now()}`);
+        if (res.ok) {
+          baseEpisodes = await res.json();
+        }
+      } catch (err) {
+        console.warn('Could not load episodes.json, using fallback', err);
+      }
+      renderPodcasts();
+    }
+
+    function toggleDossier(id) {
+      const el = document.getElementById(`dossier-${id}`);
+      const btn = document.getElementById(`dossier-btn-${id}`);
+      if (!el || !btn) return;
+      if (el.classList.contains('hidden')) {
+        el.classList.remove('hidden');
+        btn.innerHTML = `▲ HIDE INVESTIGATIVE DOSSIER &amp; EVIDENCE`;
+      } else {
+        el.classList.add('hidden');
+        btn.innerHTML = `🔍 READ FULL INVESTIGATIVE DOSSIER &amp; SUPPLY CHAIN EVIDENCE ▾`;
+      }
+    }
 
     function renderPodcasts() {
       const archiveList = document.getElementById('podcast-archive-list');
       const schemaContainer = document.getElementById('seo-schema-container');
 
-      if (podcasts.length === 0) {
-        archiveList.innerHTML = `<p class="text-xs font-mono-tech text-slate-500 italic p-3">No podcast episodes published yet.</p>`;
+      // Combine base published episodes and user-created local episodes
+      const allEpisodes = [...userPodcasts, ...baseEpisodes];
+
+      if (allEpisodes.length === 0) {
+        archiveList.innerHTML = `<p class="text-xs font-mono-tech text-slate-500 italic p-3">Loading investigative dispatches...</p>`;
         schemaContainer.innerHTML = '';
         return;
       }
 
       let schemaJSONList = [];
+      const isLoggedIn = localStorage.getItem('creator_authenticated') === 'true';
 
-      archiveList.innerHTML = podcasts.map((pod, idx) => {
+      archiveList.innerHTML = allEpisodes.map((pod, idx) => {
+        const hasDossier = !!pod.dossier;
+        const episodeId = pod.id || `ep-${idx}`;
+
         schemaJSONList.push({
           "@context": "https://schema.org",
           "@type": "PodcastEpisode",
@@ -751,25 +882,165 @@
           "associatedMedia": {
             "@type": "MediaObject",
             "contentUrl": pod.audioUrl
-          }
+          },
+          ...(hasDossier && pod.dossier.transcript ? { "transcript": pod.dossier.transcript } : {})
         });
 
-        const isLoggedIn = localStorage.getItem('creator_authenticated') === 'true';
+        let dossierHtml = '';
+        if (hasDossier) {
+          const d = pod.dossier;
+          const flowchartItems = (d.flowchart || []).map(step => `
+            <div class="flex items-start gap-2 text-xs font-mono-tech py-1 border-b border-emerald-500/10 last:border-b-0">
+              <span class="text-cyan-400 font-bold shrink-0">&bull;</span>
+              <span class="text-slate-200">${step}</span>
+            </div>
+          `).join('');
+
+          const findingsItems = (d.investigative_findings || []).map(f => `
+            <div class="space-y-1 bg-black/50 p-2.5 rounded border border-emerald-500/20">
+              <h5 class="text-xs font-mono-tech font-bold text-amber-300 uppercase">${f.title}</h5>
+              <p class="text-xs text-slate-300 leading-relaxed font-sans">${f.content}</p>
+            </div>
+          `).join('');
+
+          dossierHtml = `
+            <div class="pt-2">
+              <button id="dossier-btn-${episodeId}" onclick="toggleDossier('${episodeId}')" class="w-full text-center bg-cyan-950/60 hover:bg-cyan-900/60 text-cyan-300 hover:text-cyan-200 border border-cyan-500/40 text-xs font-mono-tech font-bold py-2 px-3 rounded transition flex items-center justify-center gap-2">
+                <span>🔍 READ FULL INVESTIGATIVE DOSSIER &amp; SUPPLY CHAIN EVIDENCE ▾</span>
+              </button>
+
+              <div id="dossier-${episodeId}" class="hidden mt-3 space-y-4 p-3.5 rounded-lg border border-red-500/40 bg-black/80">
+                
+                <!-- Supply Chain Flow -->
+                <div class="space-y-2">
+                  <div class="flex items-center justify-between border-b border-red-500/30 pb-1.5">
+                    <span class="text-xs font-mono-tech font-bold text-red-400 uppercase tracking-wider">
+                      📊 Anatomy of the Middleman Chain
+                    </span>
+                    <span class="text-[10px] font-mono-tech text-slate-400">VALUE EXTRACTION DIAGRAM</span>
+                  </div>
+                  <div class="bg-red-950/20 p-2.5 rounded border border-red-500/20 space-y-1">
+                    ${flowchartItems}
+                  </div>
+                </div>
+
+                <!-- Rate Comparison Matrix -->
+                <div class="space-y-2">
+                  <span class="text-xs font-mono-tech font-bold text-cyan-300 uppercase tracking-wider">
+                    ⚖️ The Economic Arbitrage Spread
+                  </span>
+                  <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 font-mono-tech text-xs">
+                    <div class="p-2 bg-emerald-950/30 border border-emerald-500/30 rounded">
+                      <div class="text-[10px] text-slate-400">HOSPITAL BILLING</div>
+                      <div class="text-sm font-bold text-emerald-400">$120 – $210/hr</div>
+                      <div class="text-[9px] text-slate-400">($2.00–$3.50/min)</div>
+                    </div>
+                    <div class="p-2 bg-cyan-950/30 border border-cyan-500/30 rounded">
+                      <div class="text-[10px] text-slate-400">BPO VENDOR RATE</div>
+                      <div class="text-sm font-bold text-cyan-400">$18 – $28/hr</div>
+                      <div class="text-[9px] text-slate-400">Captured Margin: ~75%</div>
+                    </div>
+                    <div class="p-2 bg-red-950/40 border border-red-500/40 rounded col-span-2 sm:col-span-1">
+                      <div class="text-[10px] text-slate-400">FRONTLINE INTERPRETER</div>
+                      <div class="text-sm font-bold text-red-400">$6.00/hr</div>
+                      <div class="text-[9px] text-red-300 font-bold">DOCKED TO $2/HR ON PENALTY</div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Investigative Findings -->
+                <div class="space-y-2">
+                  <span class="text-xs font-mono-tech font-bold text-amber-400 uppercase tracking-wider">
+                    📑 Declassified Evidence &amp; Legal Breakdown
+                  </span>
+                  <div class="space-y-2">
+                    ${findingsItems}
+                  </div>
+                </div>
+
+                <!-- Audio Narration Transcript -->
+                <div class="space-y-2">
+                  <div class="flex items-center justify-between border-t border-slate-700 pt-2">
+                    <span class="text-xs font-mono-tech font-bold text-white uppercase tracking-wider">
+                      🎙️ Spoken Broadcast Transcript (English)
+                    </span>
+                    <span class="text-[10px] font-mono-tech text-slate-400">VERBATIM TELEMETRY</span>
+                  </div>
+                  <div class="bg-slate-950/90 p-3 rounded border border-slate-700 max-h-60 overflow-y-auto viewport-scroll text-xs text-slate-300 leading-relaxed font-sans whitespace-pre-line">
+${d.transcript}
+                  </div>
+                </div>
+
+                <!-- Spanish Summary & Tactical Whistleblower Guide -->
+                <div class="space-y-2 border-t border-emerald-500/30 pt-3">
+                  <span class="text-xs font-mono-tech font-bold text-emerald-400 uppercase tracking-wider">
+                    🇲🇽 Resumen Táctico para Intérpretes (Español)
+                  </span>
+                  <div class="bg-emerald-950/20 p-3 rounded border border-emerald-500/20 text-xs text-slate-300 space-y-2 font-sans">
+                    <p>
+                      <strong>1. La Simulación Laboral es Delito:</strong> El Artículo 20 y 21 de la Ley Federal del Trabajo establece que si la empresa asigna turnos, exige disponibilidad en horarios rígidos y aplica castigos salariales (bajar el pago de $6 a $2 USD/hora), <em>existe subordinación laboral indiscutible</em>. El contrato por honorarios carece de validez legal para deslindarse de prestaciones (IMSS, Infonavit, aguinaldo, vacaciones y PTU).
+                    </p>
+                    <p>
+                      <strong>2. Respaldo Seguro de Evidencia:</strong> No borres chats. Exporta los mensajes de WhatsApp en archivo de texto plano con medios. En tu correo corporativo (Rackspace), exporta en formato .EML los avisos de capacitación de cumplimiento donde copian a mandos de Solucenter y cuentas de KellyOCG/LanguageLine.
+                    </p>
+                    <p>
+                      <strong>3. Transición Paralela:</strong> Para no poner en riesgo tu ingreso familiar, asegura primero contratos directos con plataformas internacionales (GLOBO, Propio, Voyce) o redes B2B directas antes de presentar la denuncia ante el Centro Federal de Conciliación y Registro Laboral (CFCRL).
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          `;
+        }
 
         return `
-          <div class="tech-panel p-3.5 rounded-lg space-y-2 border tech-border">
-            <div class="flex items-center justify-between text-xs font-mono-tech">
-              <span class="text-cyan-400 font-bold">${pod.title}</span>
-              <span class="text-slate-500">${pod.date.slice(0, 10)}</span>
+          <div class="tech-panel p-4 rounded-lg space-y-3 border border-red-500/40 bg-red-950/10 shadow-[0_0_15px_rgba(239,68,68,0.08)]">
+            <div class="flex items-start justify-between gap-2">
+              <div class="space-y-1 min-w-0">
+                <div class="flex items-center gap-2 flex-wrap">
+                  <span class="bg-red-500/20 text-red-300 text-[9px] font-mono-tech font-bold px-2 py-0.5 rounded border border-red-500/40">
+                    ${pod.badge || '🎙️ SPECIAL INVESTIGATION'}
+                  </span>
+                  <span class="text-slate-400 font-mono-tech text-[10px]">
+                    ${pod.date ? pod.date.slice(0, 10) : ''}
+                  </span>
+                  ${pod.duration ? `<span class="text-cyan-400 font-mono-tech text-[10px]">• ${pod.duration}</span>` : ''}
+                </div>
+                <h4 class="text-sm font-bold text-white font-mono-tech leading-snug">
+                  ${pod.title}
+                </h4>
+              </div>
+              ${isLoggedIn ? `<button onclick="deletePodcast(${idx})" class="text-red-400 text-xs font-mono-tech hover:underline shrink-0">[DELETE]</button>` : ''}
             </div>
-            <p class="text-xs text-slate-300 leading-relaxed">${pod.description}</p>
-            <audio controls class="w-full h-8 opacity-90 pt-1">
-              <source src="${pod.audioUrl}" type="audio/mpeg" />
-              Your browser does not support the audio element.
-            </audio>
-            <div class="flex justify-between items-center text-[10px] font-mono-tech text-emerald-400 pt-1">
-              <span>GOOGLE SEARCH SCHEMA: ACTIVE ✓</span>
-              ${isLoggedIn ? `<button onclick="deletePodcast(${idx})" class="text-red-400 hover:underline">[DELETE EPISODE]</button>` : ''}
+
+            <p class="text-xs text-slate-300 leading-relaxed font-sans">
+              ${pod.description}
+            </p>
+
+            <!-- Audio Player -->
+            <div class="bg-black/60 p-2.5 rounded border border-cyan-500/40 space-y-1.5">
+              <div class="flex items-center justify-between text-[10px] font-mono-tech text-cyan-400">
+                <span class="flex items-center gap-1.5">
+                  <span class="w-2 h-2 rounded-full bg-cyan-400 animate-pulse"></span>
+                  <strong>BROADCAST AUDIO:</strong> AI Investigative Narration
+                </span>
+                <a href="${pod.audioUrl}" download class="hover:text-white transition flex items-center gap-1">
+                  <span>[DOWNLOAD MP3]</span> ⬇
+                </a>
+              </div>
+              <audio controls class="w-full h-8 opacity-95">
+                <source src="${pod.audioUrl}" type="audio/mpeg" />
+                Your browser does not support the audio element.
+              </audio>
+            </div>
+
+            <!-- Dossier & Evidence -->
+            ${dossierHtml}
+
+            <div class="flex justify-between items-center text-[10px] font-mono-tech text-emerald-400 pt-1 border-t tech-border">
+              <span>GOOGLE SEARCH SCHEMA: ACTIVE ✓ (PODCASTEPISODE)</span>
+              <span class="text-slate-500 font-mono-tech">TRUTH HAS NO MIDDLEMAN</span>
             </div>
           </div>
         `;
@@ -788,20 +1059,22 @@
         return;
       }
 
-      let audioUrl = "https://www.w3schools.com/html/horse.mp3";
+      let audioUrl = "episode-01.mp3";
       if (fileInput.files && fileInput.files[0]) {
         audioUrl = URL.createObjectURL(fileInput.files[0]);
       }
 
       const newEpisode = {
+        id: `ep-user-${Date.now()}`,
         title: title,
+        badge: "COMMUNITY REPORT // USER EPISODE",
         description: desc,
         audioUrl: audioUrl,
         date: new Date().toISOString()
       };
 
-      podcasts.unshift(newEpisode);
-      localStorage.setItem('alex_podcasts', JSON.stringify(podcasts));
+      userPodcasts.unshift(newEpisode);
+      localStorage.setItem('alex_podcasts', JSON.stringify(userPodcasts));
 
       document.getElementById('pod-title').value = '';
       document.getElementById('pod-desc').value = '';
@@ -813,11 +1086,18 @@
 
     window.deletePodcast = function(index) {
       if (confirm('Delete this episode?')) {
-        podcasts.splice(index, 1);
-        localStorage.setItem('alex_podcasts', JSON.stringify(podcasts));
+        if (index < userPodcasts.length) {
+          userPodcasts.splice(index, 1);
+          localStorage.setItem('alex_podcasts', JSON.stringify(userPodcasts));
+        } else {
+          baseEpisodes.splice(index - userPodcasts.length, 1);
+        }
         renderPodcasts();
       }
     };
+
+    // Load archive on start
+    loadEpisodesArchive();
 
     fetch(`latest_news.json?t=${Date.now()}`)
       .then(res => res.json())
