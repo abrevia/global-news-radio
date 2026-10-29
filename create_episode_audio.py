@@ -3,7 +3,7 @@ import edge_tts
 import os
 
 VOICE = "en-US-ChristopherNeural"
-OUTPUT_DIR = r"C:\Users\Personal\Desktop\global-news-radio"
+OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
 AUDIO_PATH = os.path.join(OUTPUT_DIR, "episode-01.mp3")
 
 EPISODE_SCRIPT = """
