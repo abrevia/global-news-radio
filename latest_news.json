@@ -10,10 +10,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-        "link": "https://huggingface.co/blog/anydecisionmodel",
+        "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
+        "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+        "published": "Thu, 29 Oct 2026 13:37:07 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -34,10 +34,10 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+        "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+        "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
         "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 21:58:32 +0000"
+        "published": "Thu, 29 Oct 2026 13:00:00 +0000"
     },
     {
         "source": "Slator Intelligence",
@@ -50,10 +50,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-        "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "link": "https://huggingface.co/blog/anydecisionmodel",
         "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 14:58:17 GMT"
+        "published": "Thu, 29 Oct 2026 00:00:00 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -74,10 +74,10 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Google expands AI Search ads globally as core ad growth slows",
-        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+        "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+        "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
         "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 21:48:37 +0000"
+        "published": "Thu, 29 Oct 2026 13:00:00 +0000"
     },
     {
         "source": "Slator Intelligence",
@@ -90,10 +90,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Build specialized multimodal models with LFM3",
-        "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
         "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 17:16:52 GMT"
+        "published": "Wed, 28 Oct 2026 14:58:17 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -114,10 +114,10 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+        "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
         "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 21:34:30 +0000"
+        "published": "Wed, 28 Oct 2026 21:58:32 +0000"
     },
     {
         "source": "Slator Intelligence",
@@ -130,10 +130,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Can we trust LLMs to judge whether a research idea is novel?",
-        "link": "https://huggingface.co/blog/allenai/novelty-bench",
+        "title": "Build specialized multimodal models with LFM3",
+        "link": "https://huggingface.co/blog/LiquidAI/lfm3",
         "thumbnail": "",
-        "published": "Tue, 27 Oct 2026 16:12:42 GMT"
+        "published": "Tue, 27 Oct 2026 17:16:52 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -154,9 +154,9 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
         "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 21:25:30 +0000"
+        "published": "Wed, 28 Oct 2026 21:48:37 +0000"
     }
 ]
