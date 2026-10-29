@@ -81,11 +81,14 @@
 
         <!-- Section Switcher Tabs -->
         <div class="flex items-center gap-1.5 font-mono-tech text-xs">
-          <button id="tab-btn-radio" onclick="switchSection('radio')" class="bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-3 py-1.5 rounded transition font-bold">
+          <button id="tab-btn-radio" onclick="switchSection('radio')" class="bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-2.5 sm:px-3 py-1.5 rounded transition font-bold">
             [📡 RADIO]
           </button>
-          <button id="tab-btn-podcasts" onclick="switchSection('podcasts')" class="bg-emerald-950/50 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-3 py-1.5 rounded transition">
+          <button id="tab-btn-podcasts" onclick="switchSection('podcasts')" class="bg-emerald-950/50 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 sm:px-3 py-1.5 rounded transition">
             [🎙️ PODCASTS]
+          </button>
+          <button id="tab-btn-guide" onclick="switchSection('guide')" class="bg-emerald-950/50 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 sm:px-3 py-1.5 rounded transition" title="Working with Interpreters & LEP Guide in Small Segments">
+            [🗣️ GUIDE]
           </button>
         </div>
       </div>
@@ -122,9 +125,9 @@
             <a href="https://github.com/serviciosadg/abrevia/blob/main/WHO_IS_THIS_FOR.md" target="_blank" rel="noopener noreferrer" class="text-cyan-400 hover:underline">
               [Who is it for? ↗]
             </a>
-            <a href="https://github.com/serviciosadg/abrevia/blob/main/WORKING_WITH_INTERPRETERS.md" target="_blank" rel="noopener noreferrer" class="text-emerald-400 hover:underline">
-              [Interpreters Guide ↗]
-            </a>
+            <button onclick="switchSection('guide')" class="text-emerald-400 hover:text-emerald-300 hover:underline cursor-pointer">
+              [🗣️ Interpreters Guide &rarr;]
+            </button>
           </div>
         </div>
       </div>
@@ -206,12 +209,406 @@
 
     </div>
 
+    <!-- SECTION 3: INTERPRETERS & LANGUAGE ACCESS GUIDE (SEGMENTED INTELLIGENCE) -->
+    <div id="section-guide" class="hidden flex-1 flex flex-col p-4 space-y-4 overflow-y-auto viewport-scroll max-h-[calc(100vh-140px)]">
+      
+      <!-- Top Guide Header & Filter Bar -->
+      <div class="tech-panel p-4 rounded-xl space-y-3 border border-emerald-500/40 bg-emerald-950/20">
+        <div class="flex items-start justify-between gap-3">
+          <div>
+            <div class="flex items-center gap-2 flex-wrap">
+              <span class="text-xs font-mono-tech font-bold uppercase tracking-wider text-cyan-300">
+                📖 OPERATIONAL &amp; CONSTITUENT INTELLIGENCE
+              </span>
+              <span class="bg-emerald-500/20 text-emerald-300 text-[9px] font-mono-tech font-bold px-2 py-0.5 rounded border border-emerald-500/40">
+                TITLE VI &bull; EO 13166 &bull; ACA 1557
+              </span>
+            </div>
+            <h2 class="text-sm font-bold text-white font-mono-tech mt-1">
+              Guide: Working with Interpreters &amp; Communicating with LEP Constituents
+            </h2>
+            <p class="text-[11px] text-slate-300 font-sans mt-0.5">
+              Standardized operational protocol for providers (English) &amp; civil rights communication guide for Limited English Proficient (LEP) individuals (Español).
+            </p>
+          </div>
+          <a href="https://github.com/serviciosadg/abrevia/blob/main/WORKING_WITH_INTERPRETERS.md" target="_blank" rel="noopener noreferrer" class="shrink-0 text-[10px] font-mono-tech text-cyan-400 hover:underline border border-cyan-500/30 px-2 py-1 rounded bg-cyan-950/40" title="View canonical document on GitHub">
+            [RAW DOC ↗]
+          </a>
+        </div>
+
+        <!-- Segment Filter Pills -->
+        <div class="pt-2 border-t tech-border flex flex-wrap items-center gap-1.5 font-mono-tech text-[11px]">
+          <span class="text-slate-400 text-[10px] uppercase mr-1">Filter:</span>
+          <button id="guide-filter-all" onclick="filterGuideSegments('all')" class="bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-2.5 py-1 rounded transition font-bold">
+            [ALL SEGMENTS]
+          </button>
+          <button id="guide-filter-en" onclick="filterGuideSegments('en')" class="bg-emerald-950/40 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 py-1 rounded transition">
+            [🇺🇸 ENGLISH: STAFF]
+          </button>
+          <button id="guide-filter-es" onclick="filterGuideSegments('es')" class="bg-emerald-950/40 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 py-1 rounded transition">
+            [🇲🇽 ESPAÑOL: USUARIO LEP]
+          </button>
+        </div>
+      </div>
+
+      <!-- SEGMENTS CONTAINER -->
+      <div id="guide-segments-list" class="space-y-3.5">
+
+        <!-- SEGMENT 01 (EN): The Federal Standard -->
+        <div class="guide-segment-card guide-en tech-panel p-4 rounded-xl space-y-2 border border-cyan-500/30">
+          <div class="flex items-center justify-between text-[10px] font-mono-tech">
+            <span class="text-cyan-400 font-bold tracking-wider">SEGMENT 01 // STATUTORY OBLIGATION</span>
+            <span class="text-slate-400">🇺🇸 ENGLISH &bull; STAFF &amp; OPERATIONS</span>
+          </div>
+          <h3 class="text-xs sm:text-sm font-bold text-white flex items-center gap-1.5">
+            <span>🏛️</span>
+            <span>Executive Summary &amp; The Federal Standard</span>
+          </h3>
+          <p class="text-xs text-slate-300 leading-relaxed font-sans">
+            Under federal law (<strong>Title VI of the Civil Rights Act of 1964</strong>, <strong>Executive Order 13166</strong>, and <strong>Section 1557 of the ACA</strong>), federally funded entities, hospitals, clinics, housing authorities, and public contractors are legally mandated to provide <em>meaningful access</em> to Limited English Proficient (LEP) individuals.
+          </p>
+          <div class="bg-blue-950/30 border border-blue-500/30 rounded-lg p-3 text-[11px] text-blue-200 font-sans space-y-1">
+            <strong class="font-bold text-white block">⚠️ Compliance Alert:</strong>
+            Relying on ad-hoc translation, bilingual staff pulled from unrelated duties, or untrained bystanders introduces severe legal liability, diagnostic error, and civil rights violations. Whether utilizing Abrevia's zero-download automated bilingual relay or an on-demand certified LSP gateway, standardized protocols must be maintained.
+          </div>
+        </div>
+
+        <!-- SEGMENT 02 (EN): Pre-Session Prep & Positioning -->
+        <div class="guide-segment-card guide-en tech-panel p-4 rounded-xl space-y-2 border border-cyan-500/30">
+          <div class="flex items-center justify-between text-[10px] font-mono-tech">
+            <span class="text-cyan-400 font-bold tracking-wider">SEGMENT 02 // PREPARATION PROTOCOL</span>
+            <span class="text-slate-400">🇺🇸 ENGLISH &bull; STAFF &amp; OPERATIONS</span>
+          </div>
+          <h3 class="text-xs sm:text-sm font-bold text-white flex items-center gap-1.5">
+            <span>⏱️</span>
+            <span>Pre-Session Briefing &amp; Line-of-Sight Positioning</span>
+          </h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5 pt-1 text-xs font-sans text-slate-300">
+            <div class="bg-black/50 border tech-border rounded-lg p-2.5 space-y-1">
+              <strong class="text-emerald-400 text-[11px] font-mono-tech block">Phase 1: 30-Second Briefing</strong>
+              <p class="text-[11px] leading-relaxed">
+                Brief the interpreter on topic (intake, lease, dispatch, legal notice), technical terms, and regional dialect (Mexican vs. Caribbean vs. Central American). Share forms in advance.
+              </p>
+            </div>
+            <div class="bg-black/50 border tech-border rounded-lg p-2.5 space-y-1">
+              <strong class="text-cyan-400 text-[11px] font-mono-tech block">Phase 2: Space Setup &amp; Line of Sight</strong>
+              <p class="text-[11px] leading-relaxed">
+                Place the interpreter <strong>next to and slightly behind</strong> the constituent (triangular layout). Keep your direct eye contact locked on the constituent, not the interpreter. For OPI/VRI, ensure HIPAA acoustic privacy.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- SEGMENT 03 (EN): The 6 Rules During Interaction -->
+        <div class="guide-segment-card guide-en tech-panel p-4 rounded-xl space-y-2 border border-cyan-500/30">
+          <div class="flex items-center justify-between text-[10px] font-mono-tech">
+            <span class="text-cyan-400 font-bold tracking-wider">SEGMENT 03 // COMMUNICATION RULES</span>
+            <span class="text-slate-400">🇺🇸 ENGLISH &bull; STAFF &amp; OPERATIONS</span>
+          </div>
+          <h3 class="text-xs sm:text-sm font-bold text-white flex items-center gap-1.5">
+            <span>🎙️</span>
+            <span>The 6 Core Rules During Interpretation</span>
+          </h3>
+          <ul class="space-y-2 text-xs font-sans text-slate-300 pt-1">
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">1.</span>
+              <div>
+                <strong class="text-white">Always Speak in the First Person:</strong> 
+                Say <em>"What symptoms are you feeling today?"</em> &mdash; NEVER <em>"Ask him what his symptoms are."</em>
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">2.</span>
+              <div>
+                <strong class="text-white">Chunk Your Delivery (1 to 2 Sentences):</strong> 
+                Pause frequently. Never deliver long complex paragraphs without pausing for consecutive translation.
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">3.</span>
+              <div>
+                <strong class="text-white">Use Plain Language:</strong> 
+                Eliminate idioms (<em>"ballpark figure"</em>), acronyms, and slang. Plain English translates with 99%+ fidelity.
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">4.</span>
+              <div>
+                <strong class="text-white">Maintain Eye Contact with Constituent:</strong> 
+                Look directly at the person you are communicating with, even while listening to the interpreter's voice.
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">5.</span>
+              <div>
+                <strong class="text-white">Verbatim Rule:</strong> 
+                Professional interpreters must translate <strong>everything</strong> verbatim. Never make private side comments.
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">6.</span>
+              <div>
+                <strong class="text-white">The Teach-Back Method:</strong> 
+                Replace <em>"Do you understand?"</em> with <em>"To ensure I was clear, could you tell me in your own words what our next steps are?"</em>
+              </div>
+            </li>
+          </ul>
+        </div>
+
+        <!-- SEGMENT 04 (EN): DOs and DON'Ts Matrix -->
+        <div class="guide-segment-card guide-en tech-panel p-4 rounded-xl space-y-2 border border-cyan-500/30">
+          <div class="flex items-center justify-between text-[10px] font-mono-tech">
+            <span class="text-cyan-400 font-bold tracking-wider">SEGMENT 04 // OPERATIONAL CHECKLIST</span>
+            <span class="text-slate-400">🇺🇸 ENGLISH &bull; STAFF &amp; OPERATIONS</span>
+          </div>
+          <h3 class="text-xs sm:text-sm font-bold text-white flex items-center gap-1.5">
+            <span>⚖️</span>
+            <span>Critical DOs &amp; DON'Ts Matrix</span>
+          </h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-1 text-xs font-sans">
+            <div class="bg-emerald-950/20 border border-emerald-500/40 rounded-lg p-3 space-y-1.5">
+              <span class="text-emerald-400 font-mono-tech font-bold text-[11px] flex items-center gap-1">
+                <span>✅</span> <span>WHAT TO DO:</span>
+              </span>
+              <ul class="space-y-1 text-slate-300 text-[11px] list-disc list-inside">
+                <li>Speak in 1st person directly to client</li>
+                <li>Pause frequently every 1–2 sentences</li>
+                <li>Use plain, clear English words</li>
+                <li>Use qualified/certified interpreters</li>
+                <li>Address cultural nuances respectfully</li>
+                <li>Encourage interpreter clarification</li>
+              </ul>
+            </div>
+            <div class="bg-red-950/20 border border-red-500/40 rounded-lg p-3 space-y-1.5">
+              <span class="text-red-400 font-mono-tech font-bold text-[11px] flex items-center gap-1">
+                <span>❌</span> <span>WHAT NEVER TO DO:</span>
+              </span>
+              <ul class="space-y-1 text-slate-300 text-[11px] list-disc list-inside">
+                <li>Never speak in 3rd person (<em>"Tell her..."</em>)</li>
+                <li>Never speak in lengthy uninterrupted blocks</li>
+                <li>Never use idioms, legalisms, or jargon</li>
+                <li><strong class="text-red-300">NEVER use minors or family members</strong></li>
+                <li>Never raise your voice (LEP is not hearing loss)</li>
+                <li>Never hold private side conversations</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- SEGMENT 05 (EN): Free Federal Training & HIPAA Resources -->
+        <div class="guide-segment-card guide-en tech-panel p-4 rounded-xl space-y-2.5 border border-cyan-500/30">
+          <div class="flex items-center justify-between text-[10px] font-mono-tech">
+            <span class="text-cyan-400 font-bold tracking-wider">SEGMENT 05 // ACCREDITED RESOURCES</span>
+            <span class="text-slate-400">🇺🇸 ENGLISH &bull; STAFF &amp; OPERATIONS</span>
+          </div>
+          <h3 class="text-xs sm:text-sm font-bold text-white flex items-center gap-1.5">
+            <span>🎓</span>
+            <span>Free Federal &amp; Accredited Training Portals</span>
+          </h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 pt-1 text-[11px] font-mono-tech">
+            <a href="https://www.justice.gov/crt/fcs" target="_blank" rel="noopener noreferrer" class="bg-black/60 hover:bg-slate-900 border tech-border rounded p-2 text-slate-300 hover:text-white transition flex items-center justify-between">
+              <span>🏛️ DOJ FCS Title VI Portal</span>
+              <span class="text-cyan-400">↗</span>
+            </a>
+            <a href="https://www.justice.gov/crt/fcs/fcs-publications-major-interest" target="_blank" rel="noopener noreferrer" class="bg-black/60 hover:bg-slate-900 border tech-border rounded p-2 text-slate-300 hover:text-white transition flex items-center justify-between">
+              <span>📚 DOJ Language Provider Guide</span>
+              <span class="text-cyan-400">↗</span>
+            </a>
+            <a href="https://www.justice.gov/crt/fcs/TitleVI" target="_blank" rel="noopener noreferrer" class="bg-black/60 hover:bg-slate-900 border tech-border rounded p-2 text-slate-300 hover:text-white transition flex items-center justify-between">
+              <span>⚖️ DOJ Title VI Legal Manual</span>
+              <span class="text-cyan-400">↗</span>
+            </a>
+            <a href="https://thinkculturalhealth.hhs.gov" target="_blank" rel="noopener noreferrer" class="bg-black/60 hover:bg-slate-900 border tech-border rounded p-2 text-slate-300 hover:text-white transition flex items-center justify-between">
+              <span>🩺 HHS Think Cultural Health (CLAS)</span>
+              <span class="text-cyan-400">↗</span>
+            </a>
+            <a href="https://www.hipaatraining.us" target="_blank" rel="noopener noreferrer" class="bg-black/60 hover:bg-slate-900 border tech-border rounded p-2 text-emerald-400 hover:text-emerald-300 transition flex items-center justify-between sm:col-span-2">
+              <span>🎓 Free HIPAA Online Course &amp; PDF Certificate</span>
+              <span class="text-emerald-400">↗</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- SEGMENT 06 (ES): Sus Derechos Federales -->
+        <div class="guide-segment-card guide-es tech-panel p-4 rounded-xl space-y-2 border border-emerald-500/40 bg-emerald-950/10">
+          <div class="flex items-center justify-between text-[10px] font-mono-tech">
+            <span class="text-emerald-400 font-bold tracking-wider">SEGMENTO 06 // DERECHOS CIVILES</span>
+            <span class="text-slate-400">🇲🇽 ESPAÑOL &bull; PERSONA HISPANOHABLANTE (LEP)</span>
+          </div>
+          <h3 class="text-xs sm:text-sm font-bold text-white flex items-center gap-1.5">
+            <span>🛡️</span>
+            <span>Sus Derechos Federales de Acceso Lingüístico</span>
+          </h3>
+          <p class="text-xs text-slate-300 leading-relaxed font-sans">
+            Si usted habla español y tiene dominio limitado del inglés, <strong>las leyes federales de los Estados Unidos (Título VI, Orden Ejecutiva 13166 y ACA Sección 1557) protegen su derecho a recibir atención y servicios en su idioma sin costo alguno</strong>.
+          </p>
+          <div class="space-y-1.5 text-xs font-sans text-slate-300 pt-1">
+            <div class="flex items-start gap-2 bg-black/40 border tech-border rounded-lg p-2.5">
+              <span class="text-emerald-400 font-bold">1.</span>
+              <span><strong>Servicio 100% Gratuito:</strong> Usted no tiene que pagar por el servicio de interpretación ni traer a su propio intérprete.</span>
+            </div>
+            <div class="flex items-start gap-2 bg-black/40 border tech-border rounded-lg p-2.5">
+              <span class="text-emerald-400 font-bold">2.</span>
+              <span><strong>Prohibido Usar a Menores:</strong> Ninguna entidad pública o centro médico puede obligarlo a usted a usar a sus hijos menores de edad, amigos o familiares como intérpretes.</span>
+            </div>
+            <div class="flex items-start gap-2 bg-black/40 border tech-border rounded-lg p-2.5">
+              <span class="text-emerald-400 font-bold">3.</span>
+              <span><strong>Mensajería Móvil sin Descargas:</strong> Abrevia permite que hospitales y empresas se comuniquen con usted en español directamente a su WhatsApp o SMS sin descargar aplicaciones.</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- SEGMENT 07 (ES): Protocolo Paso a Paso para el Usuario -->
+        <div class="guide-segment-card guide-es tech-panel p-4 rounded-xl space-y-2 border border-emerald-500/40 bg-emerald-950/10">
+          <div class="flex items-center justify-between text-[10px] font-mono-tech">
+            <span class="text-emerald-400 font-bold tracking-wider">SEGMENTO 07 // PASO A PASO</span>
+            <span class="text-slate-400">🇲🇽 ESPAÑOL &bull; PERSONA HISPANOHABLANTE (LEP)</span>
+          </div>
+          <h3 class="text-xs sm:text-sm font-bold text-white flex items-center gap-1.5">
+            <span>🗣️</span>
+            <span>Cómo Comunicarse Eficazmente a Través de un Intérprete</span>
+          </h3>
+          <ul class="space-y-2 text-xs font-sans text-slate-300 pt-1">
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">1.</span>
+              <div>
+                <strong class="text-white">Pida el Intérprete de Inmediato:</strong> 
+                Diga con seguridad <em>"Spanish interpreter, please"</em> al llegar o al iniciar una llamada. Tiene derecho a recibirlo antes de contestar preguntas importantes.
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">2.</span>
+              <div>
+                <strong class="text-white">Hable en Primera Persona:</strong> 
+                Mire y hable directamente con el médico o funcionario (<em>"Tengo dolor aquí"</em> en lugar de <em>"Dígale a él que me duele"</em>).
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">3.</span>
+              <div>
+                <strong class="text-white">Haga Pausas Breves:</strong> 
+                Diga una o dos oraciones y pause para que el intérprete traslade su mensaje completo y con precisión.
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">4.</span>
+              <div>
+                <strong class="text-white">Todo se Interpreta:</strong> 
+                Por ética profesional, el intérprete traducirá absolutamente todo lo que usted exprese. No haga comentarios privados al margen con el intérprete.
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">5.</span>
+              <div>
+                <strong class="text-white">Neutralidad y Confidencialidad:</strong> 
+                El intérprete no puede juzgar ni dar consejos personales, y la ley (HIPAA) le prohíbe revelar su información.
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">6.</span>
+              <div>
+                <strong class="text-white">Pida Aclaraciones sin Temor:</strong> 
+                Si escucha una palabra técnica que no conoce, detenga la charla y diga: <em>"No entendí esa palabra, ¿me la pueden explicar de otra manera?"</em>.
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">7.</span>
+              <div>
+                <strong class="text-white">No use a Niños como Intérpretes:</strong> 
+                Traducir asuntos médicos o legales causa estrés a los menores y errores graves. Exija un intérprete profesional.
+              </div>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-emerald-400 font-mono-tech font-bold">8.</span>
+              <div>
+                <strong class="text-white">Abrevia en su Teléfono:</strong> 
+                Cuando le escriban por Abrevia, responda con tranquilidad en español por WhatsApp o SMS; el sistema traducirá automáticamente su respuesta al personal.
+              </div>
+            </li>
+          </ul>
+        </div>
+
+        <!-- SEGMENT 08 (ES): Qué Hacer y Qué Evitar -->
+        <div class="guide-segment-card guide-es tech-panel p-4 rounded-xl space-y-2 border border-emerald-500/40 bg-emerald-950/10">
+          <div class="flex items-center justify-between text-[10px] font-mono-tech">
+            <span class="text-emerald-400 font-bold tracking-wider">SEGMENTO 08 // TABLA DE ACCIÓN</span>
+            <span class="text-slate-400">🇲🇽 ESPAÑOL &bull; PERSONA HISPANOHABLANTE (LEP)</span>
+          </div>
+          <h3 class="text-xs sm:text-sm font-bold text-white flex items-center gap-1.5">
+            <span>📋</span>
+            <span>Qué Hacer y Qué Evitar al Comunicarse</span>
+          </h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-1 text-xs font-sans">
+            <div class="bg-emerald-950/30 border border-emerald-500/40 rounded-lg p-3 space-y-1.5">
+              <span class="text-emerald-400 font-mono-tech font-bold text-[11px] flex items-center gap-1">
+                <span>✅</span> <span>QUÉ HACER (BUENAS PRÁCTICAS):</span>
+              </span>
+              <ul class="space-y-1 text-slate-300 text-[11px] list-disc list-inside">
+                <li>Pedir intérprete calificado y gratuito al llegar</li>
+                <li>Dirigirse directamente al profesional (médico, etc.)</li>
+                <li>Hacer pausas después de 1 o 2 oraciones</li>
+                <li>Pedir aclaración inmediata si algo no se entiende</li>
+                <li>Confiar en la confidencialidad del intérprete</li>
+              </ul>
+            </div>
+            <div class="bg-red-950/30 border border-red-500/40 rounded-lg p-3 space-y-1.5">
+              <span class="text-red-400 font-mono-tech font-bold text-[11px] flex items-center gap-1">
+                <span>❌</span> <span>QUÉ EVITAR:</span>
+              </span>
+              <ul class="space-y-1 text-slate-300 text-[11px] list-disc list-inside">
+                <li><strong class="text-red-300">Nunca usar a niños o familiares</strong> para traducir</li>
+                <li>No hablar con el intérprete en 3ª persona (<em>"Dígale..."</em>)</li>
+                <li>No hablar en párrafos muy largos sin pausar</li>
+                <li>No quedarse con dudas por pena o temor</li>
+                <li>No pedir opiniones o consejos personales al intérprete</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- SEGMENT 09 (ES): Dónde Denunciar y Directorio -->
+        <div class="guide-segment-card guide-es tech-panel p-4 rounded-xl space-y-2.5 border border-emerald-500/40 bg-emerald-950/10">
+          <div class="flex items-center justify-between text-[10px] font-mono-tech">
+            <span class="text-emerald-400 font-bold tracking-wider">SEGMENTO 09 // DERECHOS Y DENUNCIAS</span>
+            <span class="text-slate-400">🇲🇽 ESPAÑOL &bull; PERSONA HISPANOHABLANTE (LEP)</span>
+          </div>
+          <h3 class="text-xs sm:text-sm font-bold text-white flex items-center gap-1.5">
+            <span>⚖️</span>
+            <span>Directorio de Recursos y Denuncias de Derechos Civiles</span>
+          </h3>
+          <p class="text-[11px] text-slate-300 font-sans leading-relaxed">
+            Si una clínica, hospital, tribunal o agencia financiada con fondos federales le niega la atención en español, usted puede presentar una queja formal en estos portales:
+          </p>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 pt-1 text-[11px] font-mono-tech">
+            <a href="https://www.justice.gov/crt/fcs" target="_blank" rel="noopener noreferrer" class="bg-black/60 hover:bg-slate-900 border tech-border rounded p-2 text-slate-300 hover:text-white transition flex items-center justify-between">
+              <span>🏛️ Coordinación Título VI (DOJ FCS)</span>
+              <span class="text-emerald-400">↗</span>
+            </a>
+            <a href="https://www.justice.gov/crt/fcs/TitleVI" target="_blank" rel="noopener noreferrer" class="bg-black/60 hover:bg-slate-900 border tech-border rounded p-2 text-slate-300 hover:text-white transition flex items-center justify-between">
+              <span>📚 Manual Legal de Título VI</span>
+              <span class="text-emerald-400">↗</span>
+            </a>
+            <a href="https://www.hhs.gov/civil-rights" target="_blank" rel="noopener noreferrer" class="bg-black/60 hover:bg-slate-900 border tech-border rounded p-2 text-slate-300 hover:text-white transition flex items-center justify-between">
+              <span>🏥 Derechos Civiles en Salud (HHS OCR)</span>
+              <span class="text-emerald-400">↗</span>
+            </a>
+            <a href="https://thinkculturalhealth.hhs.gov" target="_blank" rel="noopener noreferrer" class="bg-black/60 hover:bg-slate-900 border tech-border rounded p-2 text-slate-300 hover:text-white transition flex items-center justify-between">
+              <span>🩺 Salud Culturalmente Apropiada (HHS)</span>
+              <span class="text-emerald-400">↗</span>
+            </a>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
     <!-- Compliance, Language Access & Support Footer -->
     <footer class="bg-black/95 border-t tech-border p-4 text-center text-[11px] font-mono-tech text-slate-400 space-y-2 shrink-0">
       <div class="flex flex-wrap justify-center items-center gap-3 sm:gap-4 text-xs">
         <a href="https://abrevia-beta.vercel.app" target="_blank" rel="noopener noreferrer" class="text-cyan-400 hover:underline font-bold">⚡ Abrevia Console ↗</a>
         <span class="text-slate-600">•</span>
-        <a href="https://github.com/serviciosadg/abrevia/blob/main/WORKING_WITH_INTERPRETERS.md" target="_blank" rel="noopener noreferrer" class="text-emerald-400 hover:underline">Interpreters Guide ↗</a>
+        <button onclick="switchSection('guide')" class="text-emerald-400 hover:underline cursor-pointer">Interpreters Guide ↗</button>
         <span class="text-slate-600">•</span>
         <a href="https://www.justice.gov/crt/fcs" target="_blank" rel="noopener noreferrer" class="text-slate-300 hover:underline">DOJ Title VI Coordination ↗</a>
         <span class="text-slate-600">•</span>
@@ -232,19 +629,56 @@
     function switchSection(section) {
       const radioSec = document.getElementById('section-radio');
       const podSec = document.getElementById('section-podcasts');
+      const guideSec = document.getElementById('section-guide');
       const radioBtn = document.getElementById('tab-btn-radio');
       const podBtn = document.getElementById('tab-btn-podcasts');
+      const guideBtn = document.getElementById('tab-btn-guide');
+
+      radioSec.classList.add('hidden');
+      podSec.classList.add('hidden');
+      if (guideSec) guideSec.classList.add('hidden');
+
+      radioBtn.className = "bg-emerald-950/50 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 sm:px-3 py-1.5 rounded transition font-mono-tech";
+      podBtn.className = "bg-emerald-950/50 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 sm:px-3 py-1.5 rounded transition font-mono-tech";
+      if (guideBtn) guideBtn.className = "bg-emerald-950/50 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 sm:px-3 py-1.5 rounded transition font-mono-tech";
 
       if (section === 'radio') {
         radioSec.classList.remove('hidden');
-        podSec.classList.add('hidden');
-        radioBtn.className = "bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-3 py-1.5 rounded transition font-bold";
-        podBtn.className = "bg-emerald-950/50 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-3 py-1.5 rounded transition";
-      } else {
-        radioSec.classList.add('hidden');
+        radioBtn.className = "bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-2.5 sm:px-3 py-1.5 rounded transition font-bold font-mono-tech";
+      } else if (section === 'podcasts') {
         podSec.classList.remove('hidden');
-        podBtn.className = "bg-emerald-950 text-emerald-300 border border-emerald-500/50 px-3 py-1.5 rounded transition font-bold";
-        radioBtn.className = "bg-cyan-950/50 hover:bg-cyan-900/50 text-cyan-300 border tech-border px-3 py-1.5 rounded transition";
+        podBtn.className = "bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-2.5 sm:px-3 py-1.5 rounded transition font-bold font-mono-tech";
+      } else if (section === 'guide') {
+        if (guideSec) guideSec.classList.remove('hidden');
+        if (guideBtn) guideBtn.className = "bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-2.5 sm:px-3 py-1.5 rounded transition font-bold font-mono-tech";
+      }
+    }
+
+    function filterGuideSegments(cat) {
+      const allBtn = document.getElementById('guide-filter-all');
+      const enBtn = document.getElementById('guide-filter-en');
+      const esBtn = document.getElementById('guide-filter-es');
+      const enCards = document.querySelectorAll('.guide-en');
+      const esCards = document.querySelectorAll('.guide-es');
+
+      if (!allBtn || !enBtn || !esBtn) return;
+
+      allBtn.className = "bg-emerald-950/40 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 py-1 rounded transition";
+      enBtn.className = "bg-emerald-950/40 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 py-1 rounded transition";
+      esBtn.className = "bg-emerald-950/40 hover:bg-emerald-900/50 text-emerald-400 border tech-border px-2.5 py-1 rounded transition";
+
+      if (cat === 'all') {
+        allBtn.className = "bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-2.5 py-1 rounded transition font-bold";
+        enCards.forEach(c => c.classList.remove('hidden'));
+        esCards.forEach(c => c.classList.remove('hidden'));
+      } else if (cat === 'en') {
+        enBtn.className = "bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-2.5 py-1 rounded transition font-bold";
+        enCards.forEach(c => c.classList.remove('hidden'));
+        esCards.forEach(c => c.classList.add('hidden'));
+      } else if (cat === 'es') {
+        esBtn.className = "bg-cyan-950 text-cyan-300 border border-cyan-500/50 px-2.5 py-1 rounded transition font-bold";
+        enCards.forEach(c => c.classList.add('hidden'));
+        esCards.forEach(c => c.classList.remove('hidden'));
       }
     }
 
