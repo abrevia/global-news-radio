@@ -1,42 +1,27 @@
 [
   {
-    "name": "Aristegui Noticioso",
-    "url": "https://aristeguinoticias.com/feed/",
-    "category": "Mexico"
+    "name": "Slator Intelligence",
+    "url": "https://slator.com/feed/",
+    "category": "TRANSLATION & AI"
   },
   {
-    "name": "El Universal",
-    "url": "https://www.eluniversal.com.mx/sitemaps/google-news.xml",
-    "category": "Mexico"
+    "name": "Hugging Face Speech & AI",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "SPEECH & NLP"
   },
   {
-    "name": "NPR News",
-    "url": "https://feeds.npr.org/1001/rss.xml",
-    "category": "USA"
+    "name": "MIT Technology Review AI",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+    "category": "AI MODELS"
   },
   {
-    "name": "Associated Press",
-    "url": "https://apnews.com/hub/world-news?output=rss",
-    "category": "USA"
+    "name": "Rest of World Multilingual",
+    "url": "https://restofworld.org/feed/",
+    "category": "LANGUAGE ACCESS"
   },
   {
-    "name": "RT News",
-    "url": "https://www.rt.com/rss/news/",
-    "category": "Russia"
-  },
-  {
-    "name": "Sputnik Globe",
-    "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
-    "category": "Russia"
-  },
-  {
-    "name": "China Daily",
-    "url": "http://www.chinadaily.com.cn/rss/world_rss.xml",
-    "category": "China"
-  },
-  {
-    "name": "Al Jazeera",
-    "url": "https://www.aljazeera.com/xml/rss/all.xml",
-    "category": "Middle East"
+    "name": "TechCrunch AI",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "category": "LOCALIZATION TECH"
   }
 ]

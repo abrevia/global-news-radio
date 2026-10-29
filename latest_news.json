@@ -1,130 +1,162 @@
 [
     {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
-        "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
+        "title": "Apple Questions Reliability of Translation Judges, Both AI and Human",
+        "link": "https://slator.com/apple-judge-translation-quality/",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 02:10:11 -0400"
+        "published": "Thu, 29 Oct 2026 09:20:42 +0000"
     },
     {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Fire breaks out at US nuclear weapons facility",
-        "link": "https://rt-english.com/news/647982-us-nuclear-site-fire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2cf2e85f5401d131c526d.png",
-        "published": "Thu, 29 Oct 2026 04:46:41 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Alyoshki Ceasefire Fully Observed \u2013 Russian Rights Commissioner",
-        "link": "https://sputnikglobe.com/20261029/alyoshki-ceasefire-fully-observed--russian-rights-commissioner-1124972192.html",
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "link": "https://huggingface.co/blog/anydecisionmodel",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 06:38:08 +0000"
+        "published": "Thu, 29 Oct 2026 00:00:00 GMT"
     },
     {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "What European students can learn from their Serbian peers",
-        "link": "https://www.aljazeera.com/opinions/2026/10/29/what-european-students-can-learn-from-their-serbian-peers?traffic_source=rss",
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "We urgently need to monitor AI agents\u2019 actions in real time",
+        "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 06:39:24 +0000"
+        "published": "Thu, 29 Oct 2026 10:11:12 +0000"
     },
     {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Brewers beat the Rays to win the first World Series title in franchise history",
-        "link": "https://www.npr.org/2026/10/29/nx-s1-6021953/brewers-win-first-world-series-title",
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "Why Africa needs its own AI off switch",
+        "link": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_AI_off_switch_Final.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Thu, 29 Oct 2026 10:00:00 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 00:49:24 -0400"
+        "published": "Wed, 28 Oct 2026 21:58:32 +0000"
     },
     {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "Israeli police reject Likud\u2019s claims against Arab parties",
-        "link": "https://rt-english.com/news/647981-likud-arab-fraud-claim-rejected/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2c32285f54017ba52478c.jpg",
-        "published": "Thu, 29 Oct 2026 03:55:20 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Russia-Africa Summit, Day Two",
-        "link": "https://sputnikglobe.com/20261029/president-putin-and-burundis-president-take-part-in-the-plenary-session-of-the-russiaafrica-summit-1124972056.html",
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
+        "title": "ElevenLabs Debuts Live Speech Translation API",
+        "link": "https://slator.com/elevenlabs-live-speech-translation-api/",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 06:11:39 +0000"
+        "published": "Wed, 28 Oct 2026 10:05:57 +0000"
     },
     {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Europe\u2019s wealth gap: Older households eight times richer than young ones",
-        "link": "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss",
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 06:25:02 +0000"
+        "published": "Wed, 28 Oct 2026 14:58:17 GMT"
     },
     {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Hackers expose the identities of more than 40,000 DHS employees",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "Creating AI value with enterprise context",
+        "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
         "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 23:28:50 -0400"
+        "published": "Wed, 28 Oct 2026 20:32:02 +0000"
     },
     {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "WATCH: Trump ally declares himself \u2018leader of Brazil\u2019 after fleeing to US",
-        "link": "https://rt-english.com/news/647980-bolsonaro-lands-us-leader-brazil/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae2acec85f5405e75739576.jpg",
-        "published": "Thu, 29 Oct 2026 02:20:41 +0000"
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "AI models cost more when you don\u2019t use English",
+        "link": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/Ai-Cost-Languages-3-scaled.png?width=160&dpr=2&crop=1:1",
+        "published": "Mon, 26 Oct 2026 10:00:22 +0000"
     },
     {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "The West\u2019s Attempts to Derail Russia-Africa Summit Doomed to Fail - Russian Diplomat",
-        "link": "https://sputnikglobe.com/20261029/the-wests-attempts-to-derail-russia-africa-summit-doomed-to-fail---russian-diplomat-1124971666.html",
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 05:35:12 +0000"
+        "published": "Wed, 28 Oct 2026 21:48:37 +0000"
     },
     {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Liverpool beat Chelsea 6-5 on penalties to reach League Cup quarterfinals",
-        "link": "https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss",
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
+        "title": "UK Rail Delivery Group Launches Sign Language Tender",
+        "link": "https://slator.com/british-sign-language-rail-tender/",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 06:13:51 +0000"
+        "published": "Wed, 28 Oct 2026 09:55:11 +0000"
     },
     {
-        "source": "NPR News",
-        "category": "USA",
-        "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Ni\u00f1o will affect your region",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter",
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "Build specialized multimodal models with LFM3",
+        "link": "https://huggingface.co/blog/LiquidAI/lfm3",
         "thumbnail": "",
-        "published": "Wed, 28 Oct 2026 22:20:45 -0400"
+        "published": "Tue, 27 Oct 2026 17:16:52 GMT"
     },
     {
-        "source": "RT News",
-        "category": "Russia",
-        "title": "US hospitals and nursing homes are breeding grounds for deadly superbugs \u2013 CDC",
-        "link": "https://rt-english.com/news/647957-us-healthcare-deadly-superbug-threat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "thumbnail": "https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae227c32030271d812798fb.jpg",
-        "published": "Thu, 29 Oct 2026 00:45:34 +0000"
-    },
-    {
-        "source": "Sputnik Globe",
-        "category": "Russia",
-        "title": "Rosatom Discussing Cooperation in Peaceful Use of Nuclear Energy With US - CEO",
-        "link": "https://sputnikglobe.com/20261029/rosatom-discussing-cooperation-in-peaceful-use-of-nuclear-energy-with-us---ceo-1124971257.html",
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "Pairing industrial AI autonomy and human\u00a0control",
+        "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 03:59:00 +0000"
+        "published": "Wed, 28 Oct 2026 12:00:00 +0000"
     },
     {
-        "source": "Al Jazeera",
-        "category": "Middle East",
-        "title": "Russia\u2019s alleged sabotage campaign in Europe raises fears of escalation",
-        "link": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss",
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "Big Tech\u2019s thirst for water is sparking a global resistance",
+        "link": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/GettyImages-2299069237_small.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Thu, 22 Oct 2026 10:00:00 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 06:01:29 +0000"
+        "published": "Wed, 28 Oct 2026 21:34:30 +0000"
+    },
+    {
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
+        "title": "RWS Returns to Growth as Acolad Deal Nears Completion",
+        "link": "https://slator.com/rws-growth-acolad-acquisition-2026/",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 09:45:45 +0000"
+    },
+    {
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "Can we trust LLMs to judge whether a research idea is novel?",
+        "link": "https://huggingface.co/blog/allenai/novelty-bench",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 16:12:42 GMT"
+    },
+    {
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+        "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+        "thumbnail": "",
+        "published": "Tue, 27 Oct 2026 11:19:18 +0000"
+    },
+    {
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "Will developing nations be able to handle millions of AI agents?",
+        "link": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_qgents_swarm_sketch_v3.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Mon, 19 Oct 2026 10:00:00 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+        "thumbnail": "",
+        "published": "Wed, 28 Oct 2026 21:25:30 +0000"
     }
 ]
