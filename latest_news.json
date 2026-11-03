@@ -10,10 +10,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents \u2014 When to Pick CUGA?",
-        "link": "https://huggingface.co/blog/ibm-research/cuga-harness",
+        "title": "StateBench: Testing how language models track state changes over long documents",
+        "link": "https://huggingface.co/blog/allenai/statebench",
         "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 15:57:39 GMT"
+        "published": "Tue, 03 Nov 2026 17:15:21 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -34,10 +34,10 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Apple restricts dating apps and AI companions to users 18 and up",
-        "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+        "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
         "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 15:38:27 +0000"
+        "published": "Tue, 03 Nov 2026 21:43:08 +0000"
     },
     {
         "source": "Slator Intelligence",
@@ -50,10 +50,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Transformers Model Integration Contracts",
-        "link": "https://huggingface.co/blog/transformers-mic",
+        "title": "Palette: teaching a small model to build decks in your design language",
+        "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
         "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 00:00:00 GMT"
+        "published": "Tue, 03 Nov 2026 16:35:36 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -74,10 +74,10 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-        "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+        "title": "Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal",
+        "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
         "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 14:30:00 +0000"
+        "published": "Tue, 03 Nov 2026 21:05:55 +0000"
     },
     {
         "source": "Slator Intelligence",
@@ -90,10 +90,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "nemotron-halloween",
-        "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+        "title": "CWE-bench v2: More coverage, quality, and transparency",
+        "link": "https://huggingface.co/blog/cwe-bench",
         "thumbnail": "",
-        "published": "Fri, 30 Oct 2026 17:57:24 GMT"
+        "published": "Tue, 03 Nov 2026 00:00:00 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -114,10 +114,10 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-        "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
         "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 14:00:00 +0000"
+        "published": "Tue, 03 Nov 2026 19:34:43 +0000"
     },
     {
         "source": "Slator Intelligence",
@@ -130,10 +130,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
-        "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+        "title": "Transformers Model Integration Contracts",
+        "link": "https://huggingface.co/blog/transformers-mic",
         "thumbnail": "",
-        "published": "Thu, 29 Oct 2026 13:37:07 GMT"
+        "published": "Tue, 03 Nov 2026 00:00:00 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -154,9 +154,9 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Apple Watch\u2019s AI features for rewinding and recapping conversations begin beta testing",
-        "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+        "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
+        "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
         "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 07:20:00 +0000"
+        "published": "Tue, 03 Nov 2026 18:42:16 +0000"
     }
 ]
