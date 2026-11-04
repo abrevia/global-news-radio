@@ -10,6 +10,46 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
+        "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "thumbnail": "",
+        "published": "Wed, 04 Nov 2026 17:50:10 GMT"
+    },
+    {
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "thumbnail": "",
+        "published": "Wed, 04 Nov 2026 18:50:55 +0000"
+    },
+    {
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "Startups recalibrate Chinese AI for the West",
+        "link": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_alignment_final.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Mon, 02 Nov 2026 11:00:00 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+        "thumbnail": "",
+        "published": "Wed, 04 Nov 2026 21:25:44 +0000"
+    },
+    {
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
+        "title": "Market Intelligence Briefing November 2026",
+        "link": "https://slator.com/market-intelligence-briefing-november-2026/",
+        "thumbnail": "",
+        "published": "Wed, 04 Nov 2026 10:05:00 +0000"
+    },
+    {
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
         "title": "StateBench: Testing how language models track state changes over long documents",
         "link": "https://huggingface.co/blog/allenai/statebench",
         "thumbnail": "",
@@ -26,26 +66,26 @@
     {
         "source": "Rest of World Multilingual",
         "category": "LANGUAGE ACCESS",
-        "title": "Startups recalibrate Chinese AI for the West",
-        "link": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_alignment_final.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Mon, 02 Nov 2026 11:00:00 +0000"
+        "title": "Why Africa needs its own AI off switch",
+        "link": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_AI_off_switch_Final.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Thu, 29 Oct 2026 10:00:00 +0000"
     },
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-        "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+        "title": "Meta acquires AI coding startup Conductor",
+        "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
         "thumbnail": "",
-        "published": "Wed, 04 Nov 2026 13:00:00 +0000"
+        "published": "Wed, 04 Nov 2026 21:10:56 +0000"
     },
     {
         "source": "Slator Intelligence",
         "category": "TRANSLATION & AI",
-        "title": "Market Intelligence Briefing November 2026",
-        "link": "https://slator.com/market-intelligence-briefing-november-2026/",
+        "title": "Salesforce Acquires Voice AI Firm Cresta",
+        "link": "https://slator.com/salesforce-acquires-cresta/",
         "thumbnail": "",
-        "published": "Wed, 04 Nov 2026 10:05:00 +0000"
+        "published": "Wed, 04 Nov 2026 09:30:00 +0000"
     },
     {
         "source": "Hugging Face Speech & AI",
@@ -66,26 +106,26 @@
     {
         "source": "Rest of World Multilingual",
         "category": "LANGUAGE ACCESS",
-        "title": "Why Africa needs its own AI off switch",
-        "link": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_AI_off_switch_Final.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Thu, 29 Oct 2026 10:00:00 +0000"
+        "title": "AI models cost more when you don\u2019t use English",
+        "link": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/Ai-Cost-Languages-3-scaled.png?width=160&dpr=2&crop=1:1",
+        "published": "Mon, 26 Oct 2026 10:00:22 +0000"
     },
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Anthropic is working on a system to prove AI models\u2019 identity",
-        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "title": "Open source AI is booming. Hugging Face explains who profits.",
+        "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
         "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 22:41:03 +0000"
+        "published": "Wed, 04 Nov 2026 19:30:04 +0000"
     },
     {
         "source": "Slator Intelligence",
         "category": "TRANSLATION & AI",
-        "title": "Salesforce Acquires Voice AI Firm Cresta",
-        "link": "https://slator.com/salesforce-acquires-cresta/",
+        "title": "Vistatec and Slator Co-Author Report on Human Quality Governance for Language AI",
+        "link": "https://slator.com/language-ai-quality-governance-report/",
         "thumbnail": "",
-        "published": "Wed, 04 Nov 2026 09:30:00 +0000"
+        "published": "Wed, 04 Nov 2026 09:20:19 +0000"
     },
     {
         "source": "Hugging Face Speech & AI",
@@ -106,46 +146,6 @@
     {
         "source": "Rest of World Multilingual",
         "category": "LANGUAGE ACCESS",
-        "title": "AI models cost more when you don\u2019t use English",
-        "link": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/Ai-Cost-Languages-3-scaled.png?width=160&dpr=2&crop=1:1",
-        "published": "Mon, 26 Oct 2026 10:00:22 +0000"
-    },
-    {
-        "source": "TechCrunch AI",
-        "category": "LOCALIZATION TECH",
-        "title": "Data centers are turning to old jet engines as the wait for power grows",
-        "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-        "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 22:19:53 +0000"
-    },
-    {
-        "source": "Slator Intelligence",
-        "category": "TRANSLATION & AI",
-        "title": "Vistatec and Slator Co-Author Report on Human Quality Governance for Language AI",
-        "link": "https://slator.com/language-ai-quality-governance-report/",
-        "thumbnail": "",
-        "published": "Wed, 04 Nov 2026 09:20:19 +0000"
-    },
-    {
-        "source": "Hugging Face Speech & AI",
-        "category": "SPEECH & NLP",
-        "title": "Transformers Model Integration Contracts",
-        "link": "https://huggingface.co/blog/transformers-mic",
-        "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 00:00:00 GMT"
-    },
-    {
-        "source": "MIT Technology Review AI",
-        "category": "AI MODELS",
-        "title": "Raising the quality of insights in agentic analytics",
-        "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-        "thumbnail": "",
-        "published": "Mon, 02 Nov 2026 17:00:00 +0000"
-    },
-    {
-        "source": "Rest of World Multilingual",
-        "category": "LANGUAGE ACCESS",
         "title": "Big Tech\u2019s thirst for water is sparking a global resistance",
         "link": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/GettyImages-2299069237_small.jpg?width=160&dpr=2&crop=1:1",
@@ -154,9 +154,9 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-        "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
+        "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
         "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 21:43:08 +0000"
+        "published": "Wed, 04 Nov 2026 19:29:52 +0000"
     }
 ]
