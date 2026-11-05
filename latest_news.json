@@ -10,10 +10,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-        "link": "https://huggingface.co/blog/phonon-tts",
+        "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
         "thumbnail": "",
-        "published": "Thu, 05 Nov 2026 00:00:00 GMT"
+        "published": "Thu, 05 Nov 2026 19:35:16 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -34,10 +34,10 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Axiom Math wants to keep AI slop out of mathematics",
-        "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
         "thumbnail": "",
-        "published": "Thu, 05 Nov 2026 16:16:45 +0000"
+        "published": "Thu, 05 Nov 2026 19:48:28 +0000"
     },
     {
         "source": "Slator Intelligence",
@@ -50,10 +50,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+        "link": "https://huggingface.co/blog/phonon-tts",
         "thumbnail": "",
-        "published": "Wed, 04 Nov 2026 17:50:10 GMT"
+        "published": "Thu, 05 Nov 2026 00:00:00 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -74,10 +74,10 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-        "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
         "thumbnail": "",
-        "published": "Thu, 05 Nov 2026 15:19:05 +0000"
+        "published": "Thu, 05 Nov 2026 19:12:39 +0000"
     },
     {
         "source": "Slator Intelligence",
@@ -90,10 +90,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "StateBench: Testing how language models track state changes over long documents",
-        "link": "https://huggingface.co/blog/allenai/statebench",
+        "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
         "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 17:15:21 GMT"
+        "published": "Wed, 04 Nov 2026 17:50:10 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -114,10 +114,10 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Aina\u2019s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
-        "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+        "title": "OpenAI released a new cybersecurity model. Is that enough?",
+        "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
         "thumbnail": "",
-        "published": "Thu, 05 Nov 2026 14:42:00 +0000"
+        "published": "Thu, 05 Nov 2026 19:06:12 +0000"
     },
     {
         "source": "Slator Intelligence",
@@ -130,10 +130,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Palette: teaching a small model to build decks in your design language",
-        "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+        "title": "StateBench: Testing how language models track state changes over long documents",
+        "link": "https://huggingface.co/blog/allenai/statebench",
         "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 16:35:36 GMT"
+        "published": "Tue, 03 Nov 2026 17:15:21 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -154,9 +154,9 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Box taps Nvidia\u2019s Nemotron for new agent-first content retrieval system",
-        "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+        "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+        "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
         "thumbnail": "",
-        "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+        "published": "Thu, 05 Nov 2026 18:02:27 +0000"
     }
 ]
