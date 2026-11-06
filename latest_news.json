@@ -2,6 +2,86 @@
     {
         "source": "Slator Intelligence",
         "category": "TRANSLATION & AI",
+        "title": "AI & the Transformation of Professional Translation Work",
+        "link": "https://slator.com/ai-transformation-professional-translation-work/",
+        "thumbnail": "",
+        "published": "Fri, 06 Nov 2026 11:20:42 +0000"
+    },
+    {
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+        "link": "https://huggingface.co/blog/allenai/toyblocks",
+        "thumbnail": "",
+        "published": "Fri, 06 Nov 2026 14:00:48 GMT"
+    },
+    {
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+        "thumbnail": "",
+        "published": "Fri, 06 Nov 2026 10:00:00 +0000"
+    },
+    {
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
+        "link": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/GettyImages-2300828582-sized.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Thu, 05 Nov 2026 11:00:00 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "thumbnail": "",
+        "published": "Fri, 06 Nov 2026 15:54:47 +0000"
+    },
+    {
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
+        "title": "Netflix AI Voice Lawsuit, YouTube Live Dubs, Deepgram and TransPerfect M&A",
+        "link": "https://slator.com/netflix-ai-voice-lawsuit-youtube-live-dubs/",
+        "thumbnail": "",
+        "published": "Fri, 06 Nov 2026 09:50:19 +0000"
+    },
+    {
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+        "thumbnail": "",
+        "published": "Fri, 06 Nov 2026 00:00:00 GMT"
+    },
+    {
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "thumbnail": "",
+        "published": "Wed, 04 Nov 2026 18:50:55 +0000"
+    },
+    {
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "Startups recalibrate Chinese AI for the West",
+        "link": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_alignment_final.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Mon, 02 Nov 2026 11:00:00 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+        "thumbnail": "",
+        "published": "Fri, 06 Nov 2026 14:10:00 +0000"
+    },
+    {
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
         "title": "Healthcare Language Solutions Integrator Equiti Buys AI Interpreting Startup",
         "link": "https://slator.com/equiti-acquires-ai-interpreting-startup/",
         "thumbnail": "",
@@ -18,26 +98,26 @@
     {
         "source": "MIT Technology Review AI",
         "category": "AI MODELS",
-        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-        "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "title": "Securing the agentic enterprise with data lineage",
+        "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
         "thumbnail": "",
-        "published": "Wed, 04 Nov 2026 18:50:55 +0000"
+        "published": "Wed, 04 Nov 2026 13:00:00 +0000"
     },
     {
         "source": "Rest of World Multilingual",
         "category": "LANGUAGE ACCESS",
-        "title": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
-        "link": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/GettyImages-2300828582-sized.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Thu, 05 Nov 2026 11:00:00 +0000"
+        "title": "Why Africa needs its own AI off switch",
+        "link": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_AI_off_switch_Final.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Thu, 29 Oct 2026 10:00:00 +0000"
     },
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "title": "Underdog shows off a 32MB speech model in new demo",
+        "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
         "thumbnail": "",
-        "published": "Fri, 06 Nov 2026 06:28:32 +0000"
+        "published": "Fri, 06 Nov 2026 13:02:16 +0000"
     },
     {
         "source": "Slator Intelligence",
@@ -58,90 +138,10 @@
     {
         "source": "MIT Technology Review AI",
         "category": "AI MODELS",
-        "title": "Securing the agentic enterprise with data lineage",
-        "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-        "thumbnail": "",
-        "published": "Wed, 04 Nov 2026 13:00:00 +0000"
-    },
-    {
-        "source": "Rest of World Multilingual",
-        "category": "LANGUAGE ACCESS",
-        "title": "Startups recalibrate Chinese AI for the West",
-        "link": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_alignment_final.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Mon, 02 Nov 2026 11:00:00 +0000"
-    },
-    {
-        "source": "TechCrunch AI",
-        "category": "LOCALIZATION TECH",
-        "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
-        "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-        "thumbnail": "",
-        "published": "Thu, 05 Nov 2026 22:40:55 +0000"
-    },
-    {
-        "source": "Slator Intelligence",
-        "category": "TRANSLATION & AI",
-        "title": "Arbitr, Formerly Straker, Presents Turnaround Plan",
-        "link": "https://slator.com/arbitr-presents-turnaround-plan/",
-        "thumbnail": "",
-        "published": "Fri, 06 Nov 2026 08:25:00 +0000"
-    },
-    {
-        "source": "Hugging Face Speech & AI",
-        "category": "SPEECH & NLP",
-        "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-        "thumbnail": "",
-        "published": "Wed, 04 Nov 2026 17:50:10 GMT"
-    },
-    {
-        "source": "MIT Technology Review AI",
-        "category": "AI MODELS",
         "title": "How \u201creverse game theory\u201d could keep AI agents in check",
         "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
         "thumbnail": "",
         "published": "Tue, 03 Nov 2026 10:43:41 +0000"
-    },
-    {
-        "source": "Rest of World Multilingual",
-        "category": "LANGUAGE ACCESS",
-        "title": "Why Africa needs its own AI off switch",
-        "link": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_AI_off_switch_Final.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Thu, 29 Oct 2026 10:00:00 +0000"
-    },
-    {
-        "source": "TechCrunch AI",
-        "category": "LOCALIZATION TECH",
-        "title": "Meta says US users can now video chat with their Muse AI avatar",
-        "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-        "thumbnail": "",
-        "published": "Thu, 05 Nov 2026 19:48:28 +0000"
-    },
-    {
-        "source": "Slator Intelligence",
-        "category": "TRANSLATION & AI",
-        "title": "XTM Appoints Roger Connolly as Chief Product Officer to Lead Its Agentic AI Strategy",
-        "link": "https://slator.com/xtm-appoints-roger-connolly-chief-product-officer/",
-        "thumbnail": "",
-        "published": "Thu, 05 Nov 2026 15:00:00 +0000"
-    },
-    {
-        "source": "Hugging Face Speech & AI",
-        "category": "SPEECH & NLP",
-        "title": "StateBench: Testing how language models track state changes over long documents",
-        "link": "https://huggingface.co/blog/allenai/statebench",
-        "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 17:15:21 GMT"
-    },
-    {
-        "source": "MIT Technology Review AI",
-        "category": "AI MODELS",
-        "title": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
-        "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-        "thumbnail": "",
-        "published": "Tue, 03 Nov 2026 04:18:47 +0000"
     },
     {
         "source": "Rest of World Multilingual",
@@ -154,9 +154,9 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-        "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+        "title": "Physicl raises $10M to make the digital world real enough for robots",
+        "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
         "thumbnail": "",
-        "published": "Thu, 05 Nov 2026 19:12:39 +0000"
+        "published": "Fri, 06 Nov 2026 13:00:00 +0000"
     }
 ]
