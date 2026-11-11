@@ -2,18 +2,18 @@
     {
         "source": "Slator Intelligence",
         "category": "TRANSLATION & AI",
-        "title": "What Translators Want from AI",
-        "link": "https://slator.com/what-translators-want-from-ai/",
+        "title": "Localize.io by Alconost: Agentic Localization with Human Review",
+        "link": "https://slator.com/localizeio-by-alconost/",
         "thumbnail": "",
-        "published": "Tue, 10 Nov 2026 12:30:13 +0000"
+        "published": "Wed, 11 Nov 2026 07:34:54 +0000"
     },
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-        "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "link": "https://huggingface.co/blog/qvac/botpsy",
         "thumbnail": "",
-        "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+        "published": "Wed, 11 Nov 2026 05:01:16 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -30,6 +30,46 @@
         "link": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/Chinese-Silicon-Valley.jpg?width=160&dpr=2&crop=1:1",
         "published": "Mon, 09 Nov 2026 08:30:00 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "Nvidia\u2019s crisis has corporate governance experts reaching for the popcorn",
+        "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+        "thumbnail": "",
+        "published": "Wed, 11 Nov 2026 07:30:51 +0000"
+    },
+    {
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
+        "title": "What Translators Want from AI",
+        "link": "https://slator.com/what-translators-want-from-ai/",
+        "thumbnail": "",
+        "published": "Tue, 10 Nov 2026 12:30:13 +0000"
+    },
+    {
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+        "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+        "thumbnail": "",
+        "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+    },
+    {
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
+        "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+        "thumbnail": "",
+        "published": "Mon, 09 Nov 2026 17:05:43 +0000"
+    },
+    {
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
+        "link": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/GettyImages-2300828582-sized.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Thu, 05 Nov 2026 11:00:00 +0000"
     },
     {
         "source": "TechCrunch AI",
@@ -58,18 +98,18 @@
     {
         "source": "MIT Technology Review AI",
         "category": "AI MODELS",
-        "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
-        "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+        "title": "Innovating with AI in the special chemicals industry",
+        "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
         "thumbnail": "",
-        "published": "Mon, 09 Nov 2026 17:05:43 +0000"
+        "published": "Mon, 09 Nov 2026 13:00:00 +0000"
     },
     {
         "source": "Rest of World Multilingual",
         "category": "LANGUAGE ACCESS",
-        "title": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
-        "link": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/GettyImages-2300828582-sized.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Thu, 05 Nov 2026 11:00:00 +0000"
+        "title": "Startups recalibrate Chinese AI for the West",
+        "link": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_alignment_final.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Mon, 02 Nov 2026 11:00:00 +0000"
     },
     {
         "source": "TechCrunch AI",
@@ -98,46 +138,6 @@
     {
         "source": "MIT Technology Review AI",
         "category": "AI MODELS",
-        "title": "Innovating with AI in the special chemicals industry",
-        "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-        "thumbnail": "",
-        "published": "Mon, 09 Nov 2026 13:00:00 +0000"
-    },
-    {
-        "source": "Rest of World Multilingual",
-        "category": "LANGUAGE ACCESS",
-        "title": "Startups recalibrate Chinese AI for the West",
-        "link": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/10/illo_alignment_final.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Mon, 02 Nov 2026 11:00:00 +0000"
-    },
-    {
-        "source": "TechCrunch AI",
-        "category": "LOCALIZATION TECH",
-        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-        "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-        "thumbnail": "",
-        "published": "Tue, 10 Nov 2026 19:57:52 +0000"
-    },
-    {
-        "source": "Slator Intelligence",
-        "category": "TRANSLATION & AI",
-        "title": "Deepgram Launches Marketplace, Open to Rival Voice AI Products",
-        "link": "https://slator.com/deepgram-launches-voice-ai-marketplace/",
-        "thumbnail": "",
-        "published": "Tue, 10 Nov 2026 11:00:00 +0000"
-    },
-    {
-        "source": "Hugging Face Speech & AI",
-        "category": "SPEECH & NLP",
-        "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-        "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-        "thumbnail": "",
-        "published": "Mon, 09 Nov 2026 12:34:29 GMT"
-    },
-    {
-        "source": "MIT Technology Review AI",
-        "category": "AI MODELS",
         "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
         "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
         "thumbnail": "",
@@ -154,9 +154,9 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-        "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
         "thumbnail": "",
-        "published": "Tue, 10 Nov 2026 19:23:34 +0000"
+        "published": "Tue, 10 Nov 2026 19:57:52 +0000"
     }
 ]
