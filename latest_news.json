@@ -2,6 +2,126 @@
     {
         "source": "Slator Intelligence",
         "category": "TRANSLATION & AI",
+        "title": "AMN Healthcare\u2019s Interpreting Business Continues to Face Pricing Pressure",
+        "link": "https://slator.com/amn-healthcare-interpreting-prices-fall/",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 10:00:44 +0000"
+    },
+    {
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 15:00:23 GMT"
+    },
+    {
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "The AI Hype Index: AI is everywhere",
+        "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 14:42:44 +0000"
+    },
+    {
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "The small African lab sounding the alarm on AI bioweapons",
+        "link": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-29-scaled.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Mon, 16 Nov 2026 11:00:23 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "Google\u2019s AI feature in Search gets its own incognito mode",
+        "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 18:04:05 +0000"
+    },
+    {
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
+        "title": "Court Watchdog Seeks Clearer Rules for AI Translations in England, Wales",
+        "link": "https://slator.com/council-proposes-ai-translation-certification/",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 09:50:00 +0000"
+    },
+    {
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+        "link": "https://huggingface.co/blog/moe-expert-streaming",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "This smell startup says its AI nose is as good as a human\u2019s",
+        "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 10:20:30 +0000"
+    },
+    {
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "How Jensen Huang\u2019s exit from Nvidia impacts China\u2019s AI supply chain",
+        "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/GettyImages-2299248530.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Fri, 13 Nov 2026 16:24:10 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
+        "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 17:32:10 +0000"
+    },
+    {
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
+        "title": "US DOJ Seeks Comment on Revised English-Only Guidance for Federal Agencies",
+        "link": "https://slator.com/justice-department-english-only-guidance/",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 09:30:00 +0000"
+    },
+    {
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+        "link": "https://huggingface.co/blog/rumble-2-flash",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "Research Reports",
+        "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+        "thumbnail": "",
+        "published": "Tue, 17 Nov 2026 14:39:46 +0000"
+    },
+    {
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "The promise and peril of AI in government",
+        "link": "https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/illo_ai_democracy_sketch.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Thu, 12 Nov 2026 11:00:00 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+        "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+        "thumbnail": "",
+        "published": "Wed, 18 Nov 2026 16:59:00 +0000"
+    },
+    {
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
         "title": "Gridly CEO on Scaling Game Localization with AI Agents",
         "link": "https://slator.com/gridly-ai-agents-game-localization/",
         "thumbnail": "",
@@ -18,130 +138,10 @@
     {
         "source": "MIT Technology Review AI",
         "category": "AI MODELS",
-        "title": "Research Reports",
-        "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-        "thumbnail": "",
-        "published": "Tue, 17 Nov 2026 14:39:46 +0000"
-    },
-    {
-        "source": "Rest of World Multilingual",
-        "category": "LANGUAGE ACCESS",
-        "title": "The small African lab sounding the alarm on AI bioweapons",
-        "link": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-29-scaled.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Mon, 16 Nov 2026 11:00:23 +0000"
-    },
-    {
-        "source": "TechCrunch AI",
-        "category": "LOCALIZATION TECH",
-        "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
-        "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-        "thumbnail": "",
-        "published": "Wed, 18 Nov 2026 01:44:21 +0000"
-    },
-    {
-        "source": "Slator Intelligence",
-        "category": "TRANSLATION & AI",
-        "title": "DeepL Upgrades AI Live Speech Translation",
-        "link": "https://slator.com/deepl-ai-live-speech-translation/",
-        "thumbnail": "",
-        "published": "Tue, 17 Nov 2026 09:40:17 +0000"
-    },
-    {
-        "source": "Hugging Face Speech & AI",
-        "category": "SPEECH & NLP",
-        "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-        "thumbnail": "",
-        "published": "Fri, 13 Nov 2026 18:00:39 GMT"
-    },
-    {
-        "source": "MIT Technology Review AI",
-        "category": "AI MODELS",
         "title": "The open-source movement wants Jensen Huang back",
         "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
         "thumbnail": "",
         "published": "Mon, 16 Nov 2026 18:38:47 +0000"
-    },
-    {
-        "source": "Rest of World Multilingual",
-        "category": "LANGUAGE ACCESS",
-        "title": "How Jensen Huang\u2019s exit from Nvidia impacts China\u2019s AI supply chain",
-        "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/GettyImages-2299248530.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Fri, 13 Nov 2026 16:24:10 +0000"
-    },
-    {
-        "source": "TechCrunch AI",
-        "category": "LOCALIZATION TECH",
-        "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
-        "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-        "thumbnail": "",
-        "published": "Wed, 18 Nov 2026 00:16:50 +0000"
-    },
-    {
-        "source": "Slator Intelligence",
-        "category": "TRANSLATION & AI",
-        "title": "Chinese Dubbing Firm Reaps AI Savings, Faces Pricing Pressure",
-        "link": "https://slator.com/transn-ai-dubbing-costs-fall/",
-        "thumbnail": "",
-        "published": "Tue, 17 Nov 2026 09:25:00 +0000"
-    },
-    {
-        "source": "Hugging Face Speech & AI",
-        "category": "SPEECH & NLP",
-        "title": "XYBench: Helping with the problem behind the question",
-        "link": "https://huggingface.co/blog/allenai/xybench",
-        "thumbnail": "",
-        "published": "Fri, 13 Nov 2026 17:02:35 GMT"
-    },
-    {
-        "source": "MIT Technology Review AI",
-        "category": "AI MODELS",
-        "title": "Building trustworthy AI by fencing it in, not predicting it",
-        "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-        "thumbnail": "",
-        "published": "Mon, 16 Nov 2026 16:04:28 +0000"
-    },
-    {
-        "source": "Rest of World Multilingual",
-        "category": "LANGUAGE ACCESS",
-        "title": "The promise and peril of AI in government",
-        "link": "https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/illo_ai_democracy_sketch.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Thu, 12 Nov 2026 11:00:00 +0000"
-    },
-    {
-        "source": "TechCrunch AI",
-        "category": "LOCALIZATION TECH",
-        "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
-        "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-        "thumbnail": "",
-        "published": "Tue, 17 Nov 2026 23:37:48 +0000"
-    },
-    {
-        "source": "Slator Intelligence",
-        "category": "TRANSLATION & AI",
-        "title": "Residency vs. Sovereignty: 5 Things Banks Should Consider Before Implementing AI Translation",
-        "link": "https://slator.com/residency-vs-sovereignty-5-things-banks-should-consider-before-implementing-ai-translation/",
-        "thumbnail": "",
-        "published": "Mon, 16 Nov 2026 13:05:00 +0000"
-    },
-    {
-        "source": "Hugging Face Speech & AI",
-        "category": "SPEECH & NLP",
-        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-        "thumbnail": "",
-        "published": "Fri, 13 Nov 2026 14:05:22 GMT"
-    },
-    {
-        "source": "MIT Technology Review AI",
-        "category": "AI MODELS",
-        "title": "Building AI that can work across the enterprise",
-        "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-        "thumbnail": "",
-        "published": "Mon, 16 Nov 2026 13:00:00 +0000"
     },
     {
         "source": "Rest of World Multilingual",
@@ -154,9 +154,9 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang\u2019s exit",
-        "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+        "title": "OpenAI CEO Sam Altman says it\u2019s \u2018hard to imagine the AI industry without Jensen\u2019",
+        "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
         "thumbnail": "",
-        "published": "Tue, 17 Nov 2026 23:04:35 +0000"
+        "published": "Wed, 18 Nov 2026 16:14:09 +0000"
     }
 ]
