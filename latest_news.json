@@ -2,10 +2,50 @@
     {
         "source": "Slator Intelligence",
         "category": "TRANSLATION & AI",
-        "title": "How Language Solutions Integrators Win Business in 2027",
-        "link": "https://slator.com/how-language-solutions-integrators-win-business/",
+        "title": "Amazon Rolls Out Self-Service AI Data Prep",
+        "link": "https://slator.com/amazon-ai-data-preparation/",
         "thumbnail": "",
-        "published": "Mon, 23 Nov 2026 14:00:00 +0000"
+        "published": "Tue, 24 Nov 2026 09:50:00 +0000"
+    },
+    {
+        "source": "Hugging Face Speech & AI",
+        "category": "SPEECH & NLP",
+        "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+        "thumbnail": "",
+        "published": "Tue, 24 Nov 2026 16:34:13 GMT"
+    },
+    {
+        "source": "MIT Technology Review AI",
+        "category": "AI MODELS",
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "thumbnail": "",
+        "published": "Tue, 24 Nov 2026 15:15:16 +0000"
+    },
+    {
+        "source": "Rest of World Multilingual",
+        "category": "LANGUAGE ACCESS",
+        "title": "The catch in IBM\u2019s offer to relocate its U.S.-based immigrant workers",
+        "link": "https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/IBM-Green-card-3-scaled.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Mon, 23 Nov 2026 11:00:00 +0000"
+    },
+    {
+        "source": "TechCrunch AI",
+        "category": "LOCALIZATION TECH",
+        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "thumbnail": "",
+        "published": "Tue, 24 Nov 2026 18:02:59 +0000"
+    },
+    {
+        "source": "Slator Intelligence",
+        "category": "TRANSLATION & AI",
+        "title": "80% of US Firms Use LSIs, Survey Finds",
+        "link": "https://slator.com/us-firms-lsi-use/",
+        "thumbnail": "",
+        "published": "Tue, 24 Nov 2026 08:55:00 +0000"
     },
     {
         "source": "Hugging Face Speech & AI",
@@ -26,26 +66,26 @@
     {
         "source": "Rest of World Multilingual",
         "category": "LANGUAGE ACCESS",
-        "title": "The catch in IBM\u2019s offer to relocate its U.S.-based immigrant workers",
-        "link": "https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/IBM-Green-card-3-scaled.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Mon, 23 Nov 2026 11:00:00 +0000"
+        "title": "AI isn\u2019t replacing your job. It\u2019s turning it into low-paid gig work",
+        "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/GettyImages-2279457745.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Thu, 19 Nov 2026 11:00:00 +0000"
     },
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+        "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
         "thumbnail": "",
-        "published": "Mon, 23 Nov 2026 22:05:50 +0000"
+        "published": "Tue, 24 Nov 2026 17:00:00 +0000"
     },
     {
         "source": "Slator Intelligence",
         "category": "TRANSLATION & AI",
-        "title": "Microsoft\u2019s Voice AI and Live Translation Announcements from Ignite 2026",
-        "link": "https://slator.com/microsoft-voice-ai-live-translation-ignite-2026/",
+        "title": "AI Dubbing Is Fast. Fixing It Isn\u2019t.",
+        "link": "https://slator.com/ai-dubbing-is-fast-fixing-it-isnt/",
         "thumbnail": "",
-        "published": "Mon, 23 Nov 2026 11:15:27 +0000"
+        "published": "Tue, 24 Nov 2026 06:59:01 +0000"
     },
     {
         "source": "Hugging Face Speech & AI",
@@ -66,26 +106,26 @@
     {
         "source": "Rest of World Multilingual",
         "category": "LANGUAGE ACCESS",
-        "title": "AI isn\u2019t replacing your job. It\u2019s turning it into low-paid gig work",
-        "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/GettyImages-2279457745.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Thu, 19 Nov 2026 11:00:00 +0000"
+        "title": "The small African lab sounding the alarm on AI bioweapons",
+        "link": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-29-scaled.jpg?width=160&dpr=2&crop=1:1",
+        "published": "Mon, 16 Nov 2026 11:00:23 +0000"
     },
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-        "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+        "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
         "thumbnail": "",
-        "published": "Mon, 23 Nov 2026 22:02:05 +0000"
+        "published": "Tue, 24 Nov 2026 16:46:00 +0000"
     },
     {
         "source": "Slator Intelligence",
         "category": "TRANSLATION & AI",
-        "title": "ElevenLabs Buys Japanese Voice AI Startup for USD 100M",
-        "link": "https://slator.com/elevenlabs-kotoba-acquisition-japanese-voice-ai/",
+        "title": "How Language Solutions Integrators Win Business in 2027",
+        "link": "https://slator.com/how-language-solutions-integrators-win-business/",
         "thumbnail": "",
-        "published": "Mon, 23 Nov 2026 11:00:00 +0000"
+        "published": "Mon, 23 Nov 2026 14:00:00 +0000"
     },
     {
         "source": "Hugging Face Speech & AI",
@@ -106,46 +146,6 @@
     {
         "source": "Rest of World Multilingual",
         "category": "LANGUAGE ACCESS",
-        "title": "The small African lab sounding the alarm on AI bioweapons",
-        "link": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-29-scaled.jpg?width=160&dpr=2&crop=1:1",
-        "published": "Mon, 16 Nov 2026 11:00:23 +0000"
-    },
-    {
-        "source": "TechCrunch AI",
-        "category": "LOCALIZATION TECH",
-        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-        "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-        "thumbnail": "",
-        "published": "Mon, 23 Nov 2026 21:47:41 +0000"
-    },
-    {
-        "source": "Slator Intelligence",
-        "category": "TRANSLATION & AI",
-        "title": "Netflix Ups Pay for German Dubbing Actors, AI Dispute Remains",
-        "link": "https://slator.com/netflix-raises-german-dubbing-actors-pay/",
-        "thumbnail": "",
-        "published": "Mon, 23 Nov 2026 10:50:00 +0000"
-    },
-    {
-        "source": "Hugging Face Speech & AI",
-        "category": "SPEECH & NLP",
-        "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-        "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-        "thumbnail": "",
-        "published": "Fri, 20 Nov 2026 00:00:00 GMT"
-    },
-    {
-        "source": "MIT Technology Review AI",
-        "category": "AI MODELS",
-        "title": "This smell startup says its AI nose is as good as a human\u2019s",
-        "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-        "thumbnail": "",
-        "published": "Wed, 18 Nov 2026 10:20:30 +0000"
-    },
-    {
-        "source": "Rest of World Multilingual",
-        "category": "LANGUAGE ACCESS",
         "title": "How Jensen Huang\u2019s exit from Nvidia impacts China\u2019s AI supply chain",
         "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "thumbnail": "https://fastly.restofworld.org/uploads/2026/11/GettyImages-2299248530.jpg?width=160&dpr=2&crop=1:1",
@@ -154,9 +154,9 @@
     {
         "source": "TechCrunch AI",
         "category": "LOCALIZATION TECH",
-        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-        "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+        "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
         "thumbnail": "",
-        "published": "Mon, 23 Nov 2026 21:25:42 +0000"
+        "published": "Tue, 24 Nov 2026 16:10:00 +0000"
     }
 ]
