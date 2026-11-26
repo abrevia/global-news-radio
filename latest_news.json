@@ -10,10 +10,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Where scientists draw the line on AI agents",
-        "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+        "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
         "thumbnail": "",
-        "published": "Wed, 25 Nov 2026 18:52:55 GMT"
+        "published": "Thu, 26 Nov 2026 11:37:17 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -50,10 +50,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "An Indic Voice Agent with CUGA",
-        "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
         "thumbnail": "",
-        "published": "Wed, 25 Nov 2026 10:22:09 GMT"
+        "published": "Thu, 26 Nov 2026 05:05:36 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -90,10 +90,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-        "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+        "title": "Where scientists draw the line on AI agents",
+        "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
         "thumbnail": "",
-        "published": "Wed, 25 Nov 2026 00:00:00 GMT"
+        "published": "Wed, 25 Nov 2026 18:52:55 GMT"
     },
     {
         "source": "MIT Technology Review AI",
@@ -130,10 +130,10 @@
     {
         "source": "Hugging Face Speech & AI",
         "category": "SPEECH & NLP",
-        "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-        "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+        "title": "An Indic Voice Agent with CUGA",
+        "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
         "thumbnail": "",
-        "published": "Tue, 24 Nov 2026 16:34:13 GMT"
+        "published": "Wed, 25 Nov 2026 10:22:09 GMT"
     },
     {
         "source": "MIT Technology Review AI",
